@@ -7,7 +7,7 @@ Die doel hiervan is om 'n plek te hê waar opgedateerde af.po lêers vir Wesnoth
 
 #### Manifes van Wesnoth Terme
 
-Daar is 'n bykomende .po leêr, wesnoth.po wat nie deel van Wesnoth is nie.  Hierdie is egter 'n kritieke leêr wat dien as gesaghebbende manifes wat terminologie wat regdeur Wesnoth gebruik word bevat.
+Daar is 'n bykomende .po leêr, wesnoth.po wat nie deel van Wesnoth is nie.  Hierdie is egter 'n kritieke leêr wat dien as gesaghebbende manifes van terminologie wat regdeur Wesnoth gebruik word bevat.
 
 ### Lokalize 
 
@@ -19,6 +19,8 @@ Waar die meeste Afrikaanse vertalers die program [Virtaal](https://virtaal.trans
 
 Ek is oortuig dat Virtaal 'n puik program is en dat al die fouter en probleme uitegestreik is, maar ek is nou so diep gevestig in die gebruik van Lokalize vir ander projekte dat dit lankal verby die punt van verandering is.
 
+Die formaat van .po leêrs is (behoort) agnosties te wees ongeag van die program wat gebruik word.  Dit is altyd so, behalwe vir somtyds...
+
 ### Afrikaanse Rekenaarterme
 
 Hier is 'n bykomende leêr, [afrikaanse-rekenaarterme.po](https://github.com/casperl/wesnoth-af/blob/master/afrikaanse-rekenaarterme.po) wat 'n lang lys van Afrikaanse rekenaarterme bevat wat ek oor dekades vanaf verskeie bronne opgestel het.  Daardie leêr is nie deel van die Wesnoth vertaling nie, maar is deel van hierdie vertalingsprojek.  Dit word gedoen sodat daardie terminologie, net soos met wesnoth.po (die Wesnoth veraal manifes) in Lokalize se vertalings geheue kan wees.
@@ -27,15 +29,15 @@ Hier is 'n bykomende leêr, [afrikaanse-rekenaarterme.po](https://github.com/cas
 
 In teenstelling met ander vertaal projekte van rekenaarprogrammatuur, moet daar in gedagte gehou word dat Wesnoth 'n speletjie is.  Daarom is daar 'n paar kernreëls wat ek wil volg.
 
-* Die vertaling moet nie soos met ander rekenaarprogramme in Afrikaans 'n geboor in die oor wees nie.  Enigeen vanaf 'n sesjarige kind tot 'n pensionaris moet Wesnoth kan begin en dadelik tuis voel sonder om in die minste te wonder oor wat daardie term nou eintlik beteken.
-* Die Afrikaanse terme moet opwekkend, ligsinnig en oorspronklik wees en moet die Afrikaanse speler net soveel meer motiveer om van Wesnoth te hou.
+* Die vertaling moet nie soos soms met ander rekenaarprogramme in Afrikaans krapperig wees nie.  Enigeen vanaf 'n sesjarige kind tot 'n pensionaris moet Wesnoth kan begin en dadelik tuis voel sonder om in die minste te wonder oor wat daardie term nou eintlik beteken.  Myns insiens moet ons gevolglik poog vir terme wat verstaanbaar is eerder as terme wat absoluut korrek is.
+* Die Afrikaanse terme vir die speldeel van Wesnoth moet opwekkend, ligsinnig en oorspronklik wees en moet die Afrikaanse speler net soveel meer motiveer om van Wesnoth te hou en om dit aan hul vriende te wys.
 * Omdat Wesnoth 'n speletjie is, word daar heelwat beweegruimte vir die vertaling daarvan toegelaat.
   * Rekenaaar aspekte soos stoor, oopmaak ens moet voldoen aan die standaarde van Afrikaanse vertalings in die bedryf.
-  * Die speletjie aspekte moet vloeiend, idiomaties en uniek Afrikaans wees, nie direkte sintaktiese vertalings van Engels nie.  Om te verstaan waarvan ek praat, kyk na die voorgestelde vertalings in wesnoth.po waar die Engelse "skeleton" nie met "geraamte" vertaal moet word nie, maar eerder "skeletdanser", beenratelaar of iets dergeliks wees wat eg Afrikaans is.  Ons het een kans hier om iets oulik te skep, kom ons foeter dit nie op nie.
+  * Die speletjie aspekte moet vloeiend, idiomaties en uniek Afrikaans wees, nie direkte sintaktiese vertalings van Engels nie.  Om te verstaan waarvan ek praat, kyk na die voorgestelde vertalings in wesnoth.po waar die Engelse "skeleton" nie noodwendig met "geraamte" vertaal moet word nie, maar dalk eerder "skeletdanser", "beenratelaar" of iets dergeliks wees wat uniek en eg Afrikaans is.  Ons het een kans hier om iets oulik te skep, kom ons foeter dit nie op nie.
 
 ## Voortsetting van baie harde werk
 
-'n Groot deel van die werk is reeds gedoen.  Sonder die rekenaarterminologie en manifes leêrs, is daar bykans 17,000 terme om te vertaal. Maar ongeveer 4% is nie direkte woorde nie, maar lywige paragrawe wat vertaling in idiomaties Afrikaans benodig.  Huidiglik moet sowat 7% hersien word, eintlik moet alles eenmalig hersien word om die basis op te stel, en sowat 44% van die totale projek het geen vertaling nie.
+'n Vername deel van die werk is reeds gedoen.  Sonder die rekenaarterminologie en manifes leêrs, is daar bykans 17,000 terme in totaal om te vertaal. Maar ongeveer 4% is nie direkte woorde nie, maar lywige paragrawe wat vertaling in idiomaties Afrikaans benodig en heelwat langer tyd in beslag neem.  Huidiglik moet sowat 7% hersien word, maar eintlik moet alles eenmalig hersien word om die basis op te stel, en sowat 44% van die totale projek het geen vertaling nie.
 
 ![Wesnoth vertaling statistiek](/img/19-01-21-11-18.png)
 
