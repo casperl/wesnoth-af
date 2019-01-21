@@ -1,0 +1,829 @@
+# Header entry was created by Lokalize.
+#
+# Wesnoth benaminge:
+#.
+# Casper Labuschagne <casper.labuschagne@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Casper Labuschagne <casper.labuschagne@gmail.com>\n"
+"PO-Revision-Date: 2019-01-21 07:18+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Afrikaans <>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+# Wesnoth benaminge:
+#.
+msgid "Wesnoth"
+msgstr "Wesnot; Wesnoot; Wesnod"
+
+#.
+msgid "Elf"
+msgstr "Elf"
+
+#.
+msgid "Dunefolk"
+msgstr "Duinevolk"
+
+#.
+msgid "Naga tribe"
+msgstr "Naga; Nagastam; Nagaland"
+
+#.
+msgid "Nagini"
+msgstr "Nagini"
+
+#.
+msgid "Nagas"
+msgstr "Nagas"
+
+#.
+msgid "serpentine"
+msgstr "slangagtig"
+
+#.
+msgid "Roc"
+msgstr "Rog"
+
+#.
+msgid "Wyvern"
+msgstr "Wywern"
+
+#.
+msgid "Irdya"
+msgstr "Irdië"
+
+#.
+msgid "Drakes"
+msgstr "Drankens"
+
+#.
+msgid "Elves"
+msgstr "Elwe"
+
+#.
+msgid "Sandy Wastes"
+msgstr "Sandwoesterny"
+
+#.
+msgid "Saurian"
+msgstr "Sauriër"
+
+#.
+msgid "Saurians"
+msgstr "Sauriërs"
+
+#.
+msgid "Mechanical"
+msgstr "Meganikaan"
+
+#.
+msgid "Mechanicals"
+msgstr "Meganikane"
+
+#.
+msgid "necromancy"
+msgstr "geestesbesweering"
+
+#.
+msgid "necromancer"
+msgstr "geestesbesweerder"
+
+#.
+msgid "Orc"
+msgstr "Ork; Orkiese; Orkin (v)"
+
+#.
+msgid "Troll"
+msgstr "Trolle"
+
+#.
+msgid "alchemy"
+msgstr "alchemie"
+
+#.
+msgid "dark arts"
+msgstr "duisterkennis"
+
+#.
+msgid "magic arts"
+msgstr "magiese kunste"
+
+#.
+msgid "magic"
+msgstr "towerkunste"
+
+#.
+msgid "cataphract"
+msgstr "ysterharnas"
+
+#.
+msgid "armored infantry"
+msgstr "gepantserde infanterie"
+
+#.
+msgid "battle"
+msgstr "veldslag"
+
+#.
+msgid "skirmish"
+msgstr "skermutseling"
+
+#.
+msgid "ferocious beast"
+msgstr "bloedorstige gedierte"
+
+#.
+msgid "Merman"
+msgstr "Meerman"
+
+#.
+msgid "Mermaid"
+msgstr "Meermin"
+
+#.
+msgid "Mermen"
+msgstr "Meermen"
+
+#.
+msgid "merfolk"
+msgstr "Merevolk"
+
+#.
+msgid "piscine"
+msgstr "visagtig"
+
+#.
+msgid "Monster"
+msgstr "Monster"
+
+#.
+msgid "female Monster"
+msgstr "vroulike Monsterwyfie"
+
+#.
+msgid "Ogre"
+msgstr "Org; Orge"
+
+#.
+msgid "Iron Mauler"
+msgstr "Yster Moker; Yster Mokeraar"
+
+#.
+msgid "Ogre Nomad"
+msgstr "Orgswerwer"
+
+#.
+msgid "Young Ogre"
+msgstr "Orgling"
+
+#.
+msgid "Ogre Whelp"
+msgstr "Orgwelp"
+
+#.
+msgid "Hunting Ogre"
+msgstr "Jagterorg"
+
+#.
+msgid "Black Hand Outlaws"
+msgstr ""
+
+#.
+msgid "Outlaw"
+msgstr "Bandiet; Wettelose; Misdadiger"
+
+#.
+msgid "Bandit; Bandits"
+msgstr "Bandiet; Bandiete"
+
+#.
+msgid "Highwayman"
+msgstr "Hoofwegrower"
+
+#.
+msgid "Dwarves"
+msgstr "Dwerge"
+
+#.
+msgid "Mage; Magi"
+msgstr "Magiër; Magiërs"
+
+#.
+msgid "Farmer"
+msgstr "Boer, Boere"
+
+#.
+msgid "Miner"
+msgstr "Myner, Myners"
+
+#.
+msgid "Pirate Galleon"
+msgstr "Seerowerskip"
+
+#.
+msgid "Tusker"
+msgstr ""
+
+#.
+msgid "Tusklet"
+msgstr ""
+
+#.
+msgid "Rabbit"
+msgstr ""
+
+#.
+msgid "Sheep dog"
+msgstr ""
+
+#.
+msgid "Footpad"
+msgstr ""
+
+#.
+msgid "Troll Whelp"
+msgstr ""
+
+#.
+msgid "Dog"
+msgstr "Brak"
+
+#.
+msgid "Deer"
+msgstr ""
+
+#.
+msgid "Northland"
+msgstr ""
+
+#.
+msgid "Heir to the Throne"
+msgstr ""
+
+#.
+msgid "South Guard"
+msgstr ""
+
+#.
+msgid "AMLA; After Maximum Level Advancement"
+msgstr "NMVB; Na Maksimum Vlak Bevordering"
+
+#.
+msgid "Great Ogre"
+msgstr ""
+
+#.
+msgid "Bats"
+msgstr ""
+
+#.
+msgid "Blood Bat"
+msgstr "Bloed Vlêrmuis"
+
+#.
+msgid "Vampire Bat"
+msgstr "Vampier Vlêremuis"
+
+#.
+msgid "Dwarves"
+msgstr ""
+
+#.
+msgid "Dwarvish Fighter"
+msgstr ""
+
+#.
+msgid "Dwarvish Guardsman"
+msgstr ""
+
+#.
+msgid "Dwarvish Lord"
+msgstr ""
+
+#.
+msgid "Dwarvish Stalwart"
+msgstr ""
+
+#.
+msgid "Dwarvish Steelclad"
+msgstr ""
+
+#.
+msgid "Dwarvish Thunderer"
+msgstr ""
+
+#.
+msgid "Dwarvish Thunderguard"
+msgstr ""
+
+#.
+msgid "Elve; Elves"
+msgstr "Elf; Elwe; Elfin; Elfinne"
+
+#.
+msgid "Elvish Archer"
+msgstr ""
+
+#.
+msgid "Elvish Avenger"
+msgstr ""
+
+#.
+msgid "Elvish Captain"
+msgstr ""
+
+#.
+msgid "Elvish Champion"
+msgstr ""
+
+#.
+msgid "Elvish Druid"
+msgstr ""
+
+#.
+msgid "Elvish Enchantress"
+msgstr ""
+
+#.
+msgid "Elvish Fighter"
+msgstr ""
+
+#.
+msgid "Elvish Hero"
+msgstr ""
+
+#.
+msgid "Elvish High Lord"
+msgstr ""
+
+#.
+msgid "Elvish Lady"
+msgstr ""
+
+#.
+msgid "Elvish Lord"
+msgstr ""
+
+#.
+msgid "Elvish Marksman"
+msgstr ""
+
+#.
+msgid "Elvish Marshal"
+msgstr ""
+
+#.
+msgid "Elvish Outrider"
+msgstr ""
+
+#.
+msgid "Elvish Ranger"
+msgstr ""
+
+#.
+msgid "Elvish Rider"
+msgstr ""
+
+#.
+msgid "Elvish Scout"
+msgstr ""
+
+#.
+msgid "Elvish Shaman"
+msgstr ""
+
+#.
+msgid "Elvish Sharpshooter"
+msgstr ""
+
+#.
+msgid "Elvish Shyde"
+msgstr ""
+
+#.
+msgid "Elvish Sorceress"
+msgstr ""
+
+#.
+msgid "Elvish Sylph"
+msgstr ""
+
+#.
+msgid "Goblins"
+msgstr ""
+
+#.
+msgid "Goblin Impaler"
+msgstr ""
+
+#.
+msgid "Goblin Rouser"
+msgstr ""
+
+#.
+msgid "Goblin Spearman"
+msgstr ""
+
+#.
+msgid "Gryphons"
+msgstr ""
+
+#.
+msgid "Gryphon Master"
+msgstr ""
+
+#.
+msgid "Grypon Rider"
+msgstr ""
+
+#.
+msgid "Gryphon"
+msgstr ""
+
+#.
+msgid "Sleeping Gryphon"
+msgstr ""
+
+#.
+msgid "Humans"
+msgstr ""
+
+#.
+msgid "Arch Mage"
+msgstr ""
+
+#.
+msgid "Assassin"
+msgstr ""
+
+#.
+msgid "Bandit"
+msgstr ""
+
+#.
+msgid "Battle Princess"
+msgstr ""
+
+#.
+msgid "Bowman"
+msgstr ""
+
+#.
+msgid "Cavalier"
+msgstr ""
+
+#.
+msgid "Cavalryman"
+msgstr ""
+
+#.
+msgid "Commander"
+msgstr ""
+
+#.
+msgid "Dark Adept"
+msgstr ""
+
+#.
+msgid "Dark Queen"
+msgstr ""
+
+#.
+msgid "Dark Sorcerer"
+msgstr ""
+
+#.
+msgid "Dragoon"
+msgstr ""
+
+#.
+msgid "Duellist"
+msgstr ""
+
+#.
+msgid "Elder Mage"
+msgstr ""
+
+#.
+msgid "Fighter"
+msgstr ""
+
+#.
+msgid "Footpad"
+msgstr ""
+
+#.
+msgid "General"
+msgstr ""
+
+#.
+msgid "Grand Knight"
+msgstr ""
+
+#.
+msgid "Grand Marshall"
+msgstr ""
+
+#.
+msgid "Great Mage"
+msgstr ""
+
+#.
+msgid "Halberdier"
+msgstr ""
+
+#.
+msgid "Heavy Infantryman"
+msgstr ""
+
+#.
+msgid "Horseman"
+msgstr ""
+
+#.
+msgid "Iron Mauler"
+msgstr ""
+
+#.
+msgid "Knight"
+msgstr ""
+
+#.
+msgid "Lancer"
+msgstr ""
+
+#.
+msgid "Lieutenant"
+msgstr ""
+
+#.
+msgid "Longbowman"
+msgstr ""
+
+#.
+msgid "Lord"
+msgstr ""
+
+#.
+msgid "Mage of Light"
+msgstr ""
+
+#.
+msgid "Mage"
+msgstr ""
+
+#.
+msgid "Master Bowman"
+msgstr ""
+
+#.
+msgid "Paladin"
+msgstr ""
+
+#.
+msgid "Pikeman"
+msgstr ""
+
+#.
+msgid "Princess"
+msgstr ""
+
+#.
+msgid "Red Mage"
+msgstr ""
+
+#.
+msgid "Rogue"
+msgstr ""
+
+#.
+msgid "Royal Guard"
+msgstr ""
+
+#.
+msgid "Sergeant"
+msgstr ""
+
+#.
+msgid "Shock Trooper"
+msgstr ""
+
+#.
+msgid "Spearman"
+msgstr ""
+
+#.
+msgid "Swordsman"
+msgstr ""
+
+#.
+msgid "Thief"
+msgstr ""
+
+#.
+msgid "White Mage"
+msgstr ""
+
+#.
+msgid "Mermen"
+msgstr ""
+
+#.
+msgid "Mermaid Enchantress"
+msgstr ""
+
+#.
+msgid "Mermaid Initiate"
+msgstr ""
+
+#.
+msgid "Mermaid Priestess"
+msgstr ""
+
+#.
+msgid "Merman Fighter"
+msgstr ""
+
+#.
+msgid "Merman Hunter"
+msgstr ""
+
+#.
+msgid "Monsters"
+msgstr ""
+
+#.
+msgid "Cuttle Fish"
+msgstr ""
+
+#.
+msgid "Giant Spider"
+msgstr ""
+
+#.
+msgid "Water Serpent"
+msgstr ""
+
+#.
+msgid "Nagas"
+msgstr ""
+
+#.
+msgid "Naga Fighter"
+msgstr ""
+
+#.
+msgid "Ogres"
+msgstr ""
+
+#.
+msgid "Ogre"
+msgstr ""
+
+#.
+msgid "Orcs"
+msgstr ""
+
+#.
+msgid "Orcish Archer"
+msgstr ""
+
+#.
+msgid "Orcish Assassin"
+msgstr ""
+
+#.
+msgid "Orcish Crossbowman"
+msgstr ""
+
+#.
+msgid "Orcish Grunt"
+msgstr ""
+
+#.
+msgid "Orcish Slayer"
+msgstr ""
+
+#.
+msgid "Orcish Slurbow"
+msgstr ""
+
+#.
+msgid "Orcish Sovereign"
+msgstr ""
+
+#.
+msgid "Orcish Warlord"
+msgstr ""
+
+#.
+msgid "Orcish Warrior"
+msgstr ""
+
+#.
+msgid "Sea Orc"
+msgstr ""
+
+#.
+msgid "Trolls"
+msgstr ""
+
+#.
+msgid "Troll Rocklobber"
+msgstr ""
+
+#.
+msgid "Troll Warrior"
+msgstr ""
+
+#.
+msgid "Troll Whelp"
+msgstr ""
+
+#.
+msgid "Troll"
+msgstr ""
+
+#.
+msgid "Undead"
+msgstr "Dodelose; Dodeloos; Ondood"
+
+#.
+msgid "Bone Shooter"
+msgstr "Been Skieter"
+
+#.
+msgid "Chocobone"
+msgstr "Chocobone; Kokergebeente"
+
+#.
+msgid "Death Knight"
+msgstr "Dode Ridder; Doodsridder"
+
+#.
+msgid "Ghost"
+msgstr "Gees; Spook; Spookstroper; Spookgriller"
+
+#.
+msgid "Ghoul"
+msgstr "Gees"
+
+#.
+msgid "Lich"
+msgstr "Sielsuiger"
+
+#.
+msgid "Revenant"
+msgstr "Grafkryger"
+
+#.
+msgid "Skeleton Archer"
+msgstr "Geraamte Boogskutter"
+
+#.
+msgid "Skeleton"
+msgstr "Geraamte; Gebeente; Beenratelaar; Skeletdanser"
+
+#.
+msgid "Walking Corpse"
+msgstr "Grafloper"
+
+#.
+msgid "Wraith"
+msgstr "Spook; Gees; Geesteswewer; Geesteloper; Geesverskrikker"
+
+#.
+msgid "Wolves"
+msgstr "Wolwe"
+
+#.
+msgid "Direwolf Rider"
+msgstr "Duisterwolf Ruiter"
+
+#.
+msgid "Goblin Knight"
+msgstr "Kabouter Ridder"
+
+#.
+msgid "Goblin Pillager"
+msgstr "Kabouter Stroper"
+
+#.
+msgid "Wolf Rider"
+msgstr "Wolf Ruiter"
+
+
+
+
+
+
+
+
+
+
+
