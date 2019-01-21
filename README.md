@@ -37,6 +37,6 @@ In teenstelling met ander vertaal projekte van rekenaarprogrammatuur, moet daar 
 
 'n Groot deel van die werk is reeds gedoen.  Sonder die rekenaarterminologie en manifes leêrs, is daar bykans 17,000 terme om te vertaal. Maar ongeveer 4% is nie direkte woorde nie, maar lywige paragrawe wat vertaling in idiomaties Afrikaans benodig.  Huidiglik moet sowat 7% hersien word, eintlik moet alles eenmalig hersien word om die basis op te stel, en sowat 44% van die totale projek het geen vertaling nie.
 
-![Wesnoth vertaling statistiek](img/19-01-21-11-18.png)
+![Wesnoth vertaling statistiek](/img/19-01-21-11-18.png)
 
 Genoeg gepraat, daar is werk om te doen.
