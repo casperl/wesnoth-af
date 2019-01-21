@@ -11,7 +11,7 @@ Daar is 'n bykomende .po leêr, wesnoth.po wat nie deel van Wesnoth is nie.  Hie
 
 ### Lokalize 
 
-Waar die meeste Afrikaanse vertalers die program Virtaal gebruik, gebruik ek egter die Lokalize program vir 'n paar eenvoudige redes.
+Waar die meeste Afrikaanse vertalers die program [Virtaal](https://virtaal.translatehouse.org/) gebruik, gebruik ek egter die Lokalize program vir 'n paar eenvoudige redes.
 
 * Dit werk vir my.
 * Dit word nie stadiger as 'n hele vertaalprojek gelaai word nie.
@@ -21,7 +21,7 @@ Ek is oortuig dat Virtaal 'n puik program is en dat al die fouter en probleme ui
 
 ### Afrikaanse Rekenaarterme
 
-Hier is 'n bykomende leêr, afrikaanse-rekenaarterme.po wat 'n lang lys van Afrikaanse rekenaarterme bevat wat ek oor dekades vanaf verskeie bronne opgestel het.  Daardie leêr is nie deel van die Wesnoth vertaling nie, maar is deel van hierdie vertalingsprojek.  Dit word gedoen sodat daardie terminologie, net soos met wesnoth.po (die Wesnoth veraal manifes) in Lokalize se vertalings geheue kan wees.
+Hier is 'n bykomende leêr, [afrikaanse-rekenaarterme.po](https://github.com/casperl/wesnoth-af/blob/master/afrikaanse-rekenaarterme.po) wat 'n lang lys van Afrikaanse rekenaarterme bevat wat ek oor dekades vanaf verskeie bronne opgestel het.  Daardie leêr is nie deel van die Wesnoth vertaling nie, maar is deel van hierdie vertalingsprojek.  Dit word gedoen sodat daardie terminologie, net soos met wesnoth.po (die Wesnoth veraal manifes) in Lokalize se vertalings geheue kan wees.
 
 ## Spelverwante vertaling
 
