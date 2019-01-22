@@ -27,15 +27,27 @@ Hier is 'n bykomende leêr, [afrikaanse-rekenaarterme.po](https://github.com/cas
 
 ## Spelverwante vertaling
 
-In teenstelling met ander vertaal projekte van rekenaarprogrammatuur, moet daar in gedagte gehou word dat Wesnoth 'n speletjie is.  Daarom is daar 'n paar kernreëls wat ek wil volg.
+In teenstelling met ander vertaal projekte van rekenaarprogrammatuur, moet daar in gedagte gehou word dat Wesnoth 'n speletjie is.  Maar veel meer as 'n speletjie, is Wesnoth eerstens 'n fantasiespel.  Daarom moet in gedagte gehou word dat moderne terminologie minder geskik is as die geykte vorme of self woorde wat ontleen word aan Duits, Nederlands, Frans en Engels.  Party woorde kan of moet selfs eiesoortige skeppings in Afrikaans wees, maar met die veronderstelling dat die stam van die woord ontleen moet word aan 'n Germaniese of selfs 'n geykte Engelse term wat wortels in die volksnaam het. As voorbeeld, sal ek die voorstel maak om die woord in die ou Afrikaanse volksmond, "kroek" te gebruik as vertaling van "outlaw" waarvan die Engelse woord "crook" 'n sinoniem is. 'n Ander voorstel sou wees om die woord Pirate Galley eerder met Seerowergallei te vertaal as die moderne vorm nl Seerowerskip.
+
+Gevolglik is daar 'n paar kernreëls wat ek wil volg.
 
 * Die vertaling moet nie soos soms met ander rekenaarprogramme in Afrikaans krapperig wees nie.  Enigeen vanaf 'n sesjarige kind tot 'n pensionaris moet Wesnoth kan begin en dadelik tuis voel sonder om in die minste te wonder oor wat daardie term nou eintlik beteken.  Myns insiens moet ons gevolglik poog vir terme wat verstaanbaar is eerder as terme wat absoluut korrek is.
 * Die Afrikaanse terme vir die speldeel van Wesnoth moet opwekkend, ligsinnig en oorspronklik wees en moet die Afrikaanse speler net soveel meer motiveer om van Wesnoth te hou en om dit aan hul vriende te wys.
+* Omdat dit 'n fantasiespel is wat in 'n voormoderne tyd afspeel, is dit verkieslik om waar moontlik moderne woorde in die volksmond te vermy ten gunste van ouer of geykte vorme.  Verkieste woorde val in die kategorië:
+  * Nuwe Afrikaanse vorme soos die skitterende vertaling van "Yster Moker" vir "Iron Mauler".  Sulke nuwe vorme is verkiesliker as enige ander vorme.
+  * Ou woorde met Germaniese stamme wat in onbruik geraak het, soos "Seerowergalei" vir die moderne "Seerowerskip" of selfs 'n pasgemaakte vorm soos "Seerowergaljoen."
+  * Pasgemaakte woorde met Germaniese, Latynse of selfs Engelse stamvorme.  As voorbeeld, is daar 'n woord "Kroek" wat voorheen meer algemeen in die volksmond was, ontleen aan die Engelse "Crook" wat sinoniem is met "Outlaw".
 * Omdat Wesnoth 'n speletjie is, word daar heelwat beweegruimte vir die vertaling daarvan toegelaat.
   * Rekenaaar aspekte soos stoor, oopmaak ens moet voldoen aan die standaarde van Afrikaanse vertalings in die bedryf.
   * Die speletjie aspekte moet vloeiend, idiomaties en uniek Afrikaans wees, nie direkte sintaktiese vertalings van Engels nie.  Om te verstaan waarvan ek praat, kyk na die voorgestelde vertalings in wesnoth.po waar die Engelse "skeleton" nie noodwendig met "geraamte" vertaal moet word nie, maar dalk eerder "skeletdanser", "beenratelaar" of iets dergeliks wees wat uniek en eg Afrikaans is.  Ons het een kans hier om iets oulik te skep, kom ons foeter dit nie op nie.
 
-## Voortsetting van baie harde werk
+## Die Karakter, Kleur en Geur van 'n Fantasiespel teenoor Taalkorrektheid
+
+Soos reeds genoem sal van die benamings in 'n fantasiespeletjie noodwendig pasgemaakte skeppings moet wees.
+
+Daar is ook die veronderstelling dat 'n fantasiespel 'n bepaalde eiesoortige kleur en geur het. Waar die spel 'n konvensie het van vegtende eenhede en ander benamings in twee woorde, elk met 'n hoofletter te skryf ("Iron Giant") vereis die Afrikaanse taalreël dat dit aaneen geskryf word ("Ystermoker"). Maar dit is teenstrydig met die geur en kleur van die spel, daarom moet ons noodwendig die Taalfassiste se argwaan verduur deur benamings waar moontlik, as twee woorde elke met 'n hoofletter ("Yster Moker") waar moontlik.  Die bestaande konvensies van Wesnoth sal die heersende stylreëls wees wat die gebruik van hoofletters betref.
+
+## Voortsetting van bestaande harde werk
 
 'n Vername deel van die werk is reeds gedoen.  Sonder die rekenaarterminologie en manifes leêrs, is daar bykans 17,000 terme in totaal om te vertaal. Maar ongeveer 4% is nie direkte woorde nie, maar lywige paragrawe wat vertaling in idiomaties Afrikaans benodig en heelwat langer tyd in beslag neem.  Huidiglik moet sowat 7% hersien word, maar eintlik moet alles eenmalig hersien word om die basis op te stel, en sowat 44% van die totale projek het geen vertaling nie.
 
