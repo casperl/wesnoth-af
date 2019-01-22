@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: Casper Labuschagne <casper.labuschagne@gmail.com>\n"
-"PO-Revision-Date: 2019-01-22 01:50+0200\n"
+"PO-Revision-Date: 2019-01-22 10:13+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Afrikaans <>\n"
 "Language: af\n"
@@ -19,11 +19,20 @@ msgstr ""
 # Wesnoth benaminge:
 #.
 msgid "Wesnoth"
-msgstr "Wesnot; Wesnoot; Wesnod"
+msgstr ""
+"Westnoth "
+"Maar in ander vertalings is die stamnaam wel gewysig (sien Latyn) om by die"
+" konvensie van die taal te hou.  Die \"th\" vorm is ontleen aan Grieks en"
+" aangesien Afrikaans 'n Germaniese taal is, is Wesnot en  Wesnoot; benamings"
+" wat sterk oorweeg moet word. Dit is egter 'n swaar oorweging omdat daar"
+" reeds Afrikaanse grafiese elemente bestaan waarin Wesnoth gebruik word."
+"Wesnot; Wesnoot"
 
 #.
 msgid "Elf"
-msgstr "Elf; Elwe (mv); Elfie (verkleining); Elfling (lid van Elwestam)"
+msgstr ""
+"Elf; Elfin; Elwe; Elfling; Elfies; Elfinne"
+"Elfie (verkleining); Elfling (lid van Elwestam)"
 
 #.
 msgid "Dunefolk"
@@ -33,15 +42,11 @@ msgstr ""
 
 #.
 msgid "Naga Tribe"
-msgstr "Naga; Nagastam; Nagaland"
+msgstr "Naga; Nagastam; Nagaland; Nagas"
 
 #.
 msgid "Nagini"
 msgstr "Nagini"
-
-#.
-msgid "Nagas"
-msgstr "Nagas"
 
 #.
 msgid "Serpentine"
@@ -61,11 +66,9 @@ msgstr "Irdië"
 
 #.
 msgid "Drakes"
-msgstr "Drankens"
-
-#.
-msgid "Elves"
-msgstr "Elwe"
+msgstr ""
+"Drankens "
+"'n Draak (dragon, draco)"
 
 #.
 msgid "Sandy Wastes"
@@ -109,7 +112,9 @@ msgstr "alchemie"
 
 #.
 msgid "Dark Arts"
-msgstr "duisterkennis"
+msgstr ""
+"Duister Kunde"
+"Duister Kennis (modern); Duister Kundigheid; Duistere Kundigheid; Duisterkunde"
 
 #.
 msgid "Magic Arts"
@@ -121,15 +126,18 @@ msgstr "towerkunste"
 
 #.
 msgid "Cataphract"
-msgstr "ysterharnas"
+msgstr "Ysterharnas"
 
 #.
 msgid "Armored Infantry"
-msgstr "gepantserde infanterie"
+msgstr ""
+"Metaalbeklede Voetsoldate"
+"Alternatief: Gepantserde Voetsoldate"
+"Moderne vorm: Gepantserde Infanterie"
 
 #.
 msgid "Battle"
-msgstr "veldslag"
+msgstr "Veldslag; "
 
 #.
 msgid "Skirmish"
@@ -152,16 +160,16 @@ msgid "Mermen"
 msgstr "Meermen"
 
 #.
-msgid "merfolk"
+msgid "Merfolk"
 msgstr "Merevolk"
 
 #.
-msgid "piscine"
+msgid "Piscine"
 msgstr "visagtig"
 
 #.
 msgid "Monster"
-msgstr "Monster"
+msgstr "Monster; Monsters"
 
 #.
 msgid "Farmer"
@@ -187,14 +195,18 @@ msgstr "Skaaphond"
 
 #.
 msgid "Dog"
-msgstr "Brak"
+msgstr ""
+"Brak; Brakke; Brakkie "
+"Hond; "
 
 #.
 msgid "Deer"
 msgstr ""
+"Hert "
+"Alternative: Hert; Takbok"
 
 #.
-msgid "Northland"
+msgid "Northland; Northlands"
 msgstr ""
 
 #.
@@ -210,9 +222,8 @@ msgid "AMLA; After Maximum Level Advancement"
 msgstr "NMVB; Na Maksimum Vlak Bevordering"
 
 # Tipe vegters
-
 #.
-msgid "female Monster"
+msgid "Female Monster"
 msgstr "vroulike Monsterwyfie"
 
 #.
@@ -242,9 +253,11 @@ msgstr "Jagter Org; Jagterorg"
 #.
 msgid "Black Hand Outlaws"
 msgstr ""
+"Swart Klou Wettelose; Swart Klou Wetteloses"
 "Swart Hand Wettelose; Swarthandwettelose; Swarthandwetteloser"
-"Sterk alternatief: Swarthand Kroek; Swarthandkroek (Ontleen aan Engels -"
-" \"crook\" as \"outlaw\")"
+"Sterk alternatief: Swart Hand Kroek; Swarthandkroek (Ontleen aan Engels -"
+" \"crook\" as \"outlaw\") "
+"Swart Klou Kroek"
 
 #.
 msgid "Outlaw"
@@ -268,7 +281,10 @@ msgstr "Hoofwegrower"
 
 #.
 msgid "Dwarves"
-msgstr "Dwerg; Dwerge; Dwergie; Dwergling"
+msgstr ""
+"Dwerg; Dwerge"
+"Dwerg; Dwerge; Dwergie; Dwergling "
+"Dwarvish - Dwergagtig; Dwergling"
 
 #.
 msgid "Mage; Magi"
@@ -287,16 +303,12 @@ msgid "Footpad"
 msgstr "Straatrower; Vgl Duits - Straßenräuber"
 
 #.
-msgid "Troll Whelp"
-msgstr ""
-
-#.
 msgid "Great Ogre"
 msgstr ""
 
 #.
 msgid "Bats"
-msgstr ""
+msgstr "Vlermuis; Vlermuise; Vlermuisie"
 
 #.
 msgid "Blood Bat"
@@ -307,100 +319,115 @@ msgid "Vampire Bat"
 msgstr "Vampier Vlêremuis"
 
 #.
-msgid "Dwarves"
-msgstr ""
-
-#.
 msgid "Dwarvish Fighter"
 msgstr ""
+"Dwerge Vegter "
+"Dwergagtige Vegter; Dwerge Vegter; Dwergere Vegter"
 
 #.
 msgid "Dwarvish Guardsman"
-msgstr ""
+msgstr "Dwerge Bewaker"
 
 #.
 msgid "Dwarvish Lord"
-msgstr ""
+msgstr "Dwerge Heer"
 
 #.
 msgid "Dwarvish Stalwart"
-msgstr ""
+msgstr "Dwerge Staatmaker"
 
 #.
 msgid "Dwarvish Steelclad"
-msgstr ""
+msgstr "Dwerge Ysterpak"
 
 #.
 msgid "Dwarvish Thunderer"
-msgstr ""
+msgstr "Dwerge Donderbus"
 
 #.
 msgid "Dwarvish Thunderguard"
-msgstr ""
-
-#.
-msgid "Elve; Elves"
-msgstr "Elf; Elwe; Elfin; Elfinne"
+msgstr "Dwerge Donderwag"
 
 #.
 msgid "Elvish Archer"
-msgstr ""
+msgstr "Elwe Boogskutter"
 
 #.
 msgid "Elvish Avenger"
 msgstr ""
+"Elwe Wraker "
+"Elwe Weerwraaker; Elwe Wraker; Elwe Wrake; Elwe Wreker"
 
 #.
 msgid "Elvish Captain"
-msgstr ""
+msgstr "Elwe Kaptein"
 
 #.
 msgid "Elvish Champion"
-msgstr ""
+msgstr "Elwe Kampioen "
 
 #.
 msgid "Elvish Druid"
 msgstr ""
+"Elwe Aardtowenaar"
+"Druid - Towenaar; Profeet; Natuur Optoorder"
 
 #.
 msgid "Elvish Enchantress"
 msgstr ""
+"Elwe Betoweraares"
+"Elwe Betoweraares; Elwe Beswymeres; Elfin Betoweraar; Elfin Sieledief; Elfin"
+" Hartedief"
+"Bezaubere (Duits)"
 
 #.
 msgid "Elvish Fighter"
-msgstr ""
+msgstr "Elwe Vegter "
 
 #.
 msgid "Elvish Hero"
 msgstr ""
+"Elwe Held"
+"Recke (Duits)"
 
 #.
 msgid "Elvish High Lord"
 msgstr ""
+"Elwe Waardeheer"
+"Elwe Hogereheer; Elwe Hoëheer; Elwe Waardeheer"
 
 #.
 msgid "Elvish Lady"
-msgstr ""
+msgstr "Elwe Dame"
 
 #.
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Elwe Heer"
 
 #.
 msgid "Elvish Marksman"
 msgstr ""
+"Elwe Skut"
+"Elwe Skerpskutter (modern); Elwe Skut; Elwe Merksman (anglisisme)"
+"Scharfschütze (Duits)"
 
 #.
 msgid "Elvish Marshal"
 msgstr ""
+"Elwe Maarskalk "
+"Konteks: 'n Militêre offisier van die hoogste rang"
 
 #.
 msgid "Elvish Outrider"
 msgstr ""
+"Elwe Voorryer"
+"Elwe Voorryer; Elwe Verkenner"
+"Vorreiter (German) "
+"Konteks: Ry te perd of voor of agter, verkenner"
 
 #.
 msgid "Elvish Ranger"
-msgstr ""
+msgstr "Elwe Bewaarder"
 
 #.
 msgid "Elvish Rider"
@@ -459,10 +486,6 @@ msgid "Grypon Rider"
 msgstr ""
 
 #.
-msgid "Gryphon"
-msgstr ""
-
-#.
 msgid "Sleeping Gryphon"
 msgstr ""
 
@@ -472,66 +495,76 @@ msgstr ""
 
 #.
 msgid "Arch Mage"
-msgstr ""
+msgstr "Aarts Magiër"
 
 #.
 msgid "Assassin"
-msgstr ""
-
-#.
-msgid "Bandit"
-msgstr ""
+msgstr "Sluipmoordenaar"
 
 #.
 msgid "Battle Princess"
 msgstr ""
+"Veldslag Prinses "
+"Alternatief - Stryd Prinses "
 
 #.
 msgid "Bowman"
-msgstr ""
+msgstr "Boogskutter"
 
 #.
 msgid "Cavalier"
-msgstr ""
+msgstr "Kavalier"
 
 #.
 msgid "Cavalryman"
-msgstr ""
+msgstr "Kavalrieman"
 
 #.
 msgid "Commander"
 msgstr ""
+"Kommandeur "
+"Alternatiewe: Bevelhebber; Kommandeur; Kommandant; Kommedoor "
+"Modern: Bevelvoerder"
 
 #.
 msgid "Dark Adept"
 msgstr ""
+"Duistere Toormeester"
+"Alternatiewe: Donker Kundige; Toor Meester; Duister Meester; Toor Meister;"
+" Duister Toorder"
 
 #.
 msgid "Dark Queen"
 msgstr ""
+"Duistere Koningin"
+"Alternatiewe: Donker Koningin; Duister Koningin; Duistere Koningin; Swart"
+" Koningin"
 
 #.
 msgid "Dark Sorcerer"
 msgstr ""
+"Donker Toorder "
+"Alternatiewe: Duistere Toorder; Duister Toorder"
 
 #.
 msgid "Dragoon"
 msgstr ""
+"Drakeruiter"
+"Swaarkavalrie; Dragoon; Dragooner; Drakeruiter; Swaarruiter"
 
 #.
 msgid "Duellist"
 msgstr ""
+"Tweekamp Vegter"
+"'n Ridder wat in tweegeveg gevegte veg (Eng Belted Knight) "
+"Zweikampf (Duits)"
 
 #.
 msgid "Elder Mage"
-msgstr ""
+msgstr "Oudere Magiër"
 
 #.
 msgid "Fighter"
-msgstr ""
-
-#.
-msgid "Footpad"
 msgstr ""
 
 #.
@@ -563,10 +596,6 @@ msgid "Horseman"
 msgstr ""
 
 #.
-msgid "Iron Mauler"
-msgstr ""
-
-#.
 msgid "Knight"
 msgstr ""
 
@@ -585,6 +614,9 @@ msgstr ""
 #.
 msgid "Lord"
 msgstr ""
+"Heer"
+"Alt: Meester; Gebieder; Gebieter; Waardeheer"
+"Gebieter; Waldgraf (Duits)"
 
 #.
 msgid "Mage of Light"
@@ -647,10 +679,6 @@ msgid "White Mage"
 msgstr ""
 
 #.
-msgid "Mermen"
-msgstr ""
-
-#.
 msgid "Mermaid Enchantress"
 msgstr ""
 
@@ -671,12 +699,10 @@ msgid "Merman Hunter"
 msgstr ""
 
 #.
-msgid "Monsters"
-msgstr ""
-
-#.
 msgid "Cuttle Fish"
 msgstr ""
+"Kuttel Vis "
+"Alternatiewe: Tjokka; Kuttel Vis "
 
 #.
 msgid "Giant Spider"
@@ -687,19 +713,11 @@ msgid "Water Serpent"
 msgstr ""
 
 #.
-msgid "Nagas"
-msgstr ""
-
-#.
 msgid "Naga Fighter"
 msgstr ""
 
 #.
 msgid "Ogres"
-msgstr ""
-
-#.
-msgid "Ogre"
 msgstr ""
 
 #.
@@ -747,10 +765,6 @@ msgid "Sea Orc"
 msgstr ""
 
 #.
-msgid "Trolls"
-msgstr ""
-
-#.
 msgid "Troll Rocklobber"
 msgstr ""
 
@@ -763,10 +777,6 @@ msgid "Troll Whelp"
 msgstr ""
 
 #.
-msgid "Troll"
-msgstr ""
-
-#.
 msgid "Undead"
 msgstr "Dodelose; Dodeloos; Ondood"
 
@@ -776,11 +786,15 @@ msgstr "Been Skieter"
 
 #.
 msgid "Chocobone"
-msgstr "Chocobone; Kokergebeente"
+msgstr ""
+"Kokergebeente "
+"Chocobone; "
 
 #.
 msgid "Death Knight"
-msgstr "Dode Ridder; Doodsridder"
+msgstr ""
+"Dode Ridder; "
+"Alternatiewe: Doods Ridder; Ridder van die Dood"
 
 #.
 msgid "Ghost"
@@ -838,14 +852,19 @@ msgstr "Wolf Ruiter"
 #.
 msgid "Arcane"
 msgstr ""
+"Geheimnisvol"
+"(Ontleen aan Duitse geheimnisvoll as vertaling vir \"arcane\")"
 
 #.
 msgid "Blade"
-msgstr ""
+msgstr "Lem"
 
 #.
 msgid "Cold"
 msgstr ""
+"Kouebitter"
+"Alternatiewe: Ysige Koue; Kouebitter; Yskoue"
+"(Wapentuig)"
 
 #.
 msgid "Fire"
@@ -866,11 +885,11 @@ msgstr ""
 
 #.
 msgid "Claws"
-msgstr ""
+msgstr "Kloue"
 
 #.
 msgid "Axe"
-msgstr ""
+msgstr "Byl"
 
 #.
 msgid "Hammer"
@@ -885,12 +904,8 @@ msgid "Javelin"
 msgstr ""
 
 #.
-msgid "Battle axe"
-msgstr ""
-
-#.
-msgid "Hammer"
-msgstr ""
+msgid "Battle Axe"
+msgstr "Stryd Byl"
 
 #.
 msgid "Hatchet"
@@ -898,7 +913,7 @@ msgstr ""
 
 #.
 msgid "Dagger"
-msgstr ""
+msgstr "Dolk"
 
 #.
 msgid "Thunderstick"
@@ -910,7 +925,7 @@ msgstr ""
 
 #.
 msgid "Bow"
-msgstr ""
+msgstr "Boog"
 
 #.
 msgid "Staff"
@@ -922,10 +937,6 @@ msgstr ""
 
 #.
 msgid "Thorns"
-msgstr ""
-
-#.
-msgid "Staff"
 msgstr ""
 
 #.
@@ -971,10 +982,14 @@ msgstr ""
 #.
 msgid "Crossbow"
 msgstr ""
+"Hakkeboog "
+"Alternatief: Hakkeboog; Kruisboog"
 
 #.
 msgid "Chill Wave"
 msgstr ""
+"Kille Golf "
+"Alternatiewe: Ysige Golf; Vries Golf; Koue Golf; Koel Golf; Kil Golf"
 
 #.
 msgid "Shadow Wave"
@@ -991,6 +1006,11 @@ msgstr ""
 #.
 msgid "Club"
 msgstr ""
+"Houtstomp "
+"Alternatief: Knuppel; "
+"Nota: Die beeld van houtstomp pas eerder by 'n fantasiespel as knuppel wat in"
+" die moderne terme 'n klein handwapen is.  Veral omdat hierdie kategorie"
+" wapen deur die Orkiese, Trolle, Orge en Dodelose leërs gebruik word."
 
 #.
 msgid "Sling"
@@ -1029,16 +1049,15 @@ msgid "Ink"
 msgstr ""
 
 #.
-msgid "Fangs"
-msgstr ""
-
-#.
 msgid "Web"
 msgstr ""
 
 #.
 msgid "Cleaver"
 msgstr ""
+"Kloofbyl"
+"Alternatiew: Hakmes; Vleismes; Vleisbyl"
+"Duits: Hackmesser; Fleischerbeil"
 
 #.
 msgid "Throwing Knives"
@@ -1056,10 +1075,6 @@ msgstr ""
 msgid "Touch"
 msgstr ""
 
-#.
-msgid "Battle axe"
-msgstr ""
-
 #.ghost weapon
 msgid "Wall"
 msgstr ""
@@ -1067,14 +1082,16 @@ msgstr ""
 #.
 msgid "Chill tempest"
 msgstr ""
-
-#.
-msgid "Shadow wave"
-msgstr ""
+"Koue Warrel "
+"Alternatiewe: Koue Storm; Ys Stormwind; Kille Warrel"
 
 #.
 msgid "Baneblade"
 msgstr ""
+"Verdoemlem"
+"Alternatief: Verderflem; Verderwelem; Doemlem; Verdoemlem"
+"Stamwoord vir \"Bane\" is verderf, verlede tyd - verdorwe. "
+"Sinonieme vir verderf - ondergang, verdoemenis, verniel, verdoem"
 
 #.
 msgid "Torch"
@@ -1088,6 +1105,9 @@ msgstr ""
 #.
 msgid "Dawn"
 msgstr ""
+"Dagbreek "
+"Alterantiewe: Vroegoggend; Oggendskemer; Oggendlig; Eerstelig; "
+"(tyd van dag)"
 
 #.
 msgid "Morning"
@@ -1095,11 +1115,11 @@ msgstr ""
 
 #.
 msgid "Afternoon"
-msgstr ""
+msgstr "Middag"
 
 #.
 msgid "Dusk"
-msgstr ""
+msgstr "Aandskemer"
 
 #.
 msgid "First Watch"
@@ -1116,7 +1136,7 @@ msgstr ""
 
 #.
 msgid "Castle"
-msgstr ""
+msgstr "Kasteel"
 
 #.
 msgid "Sand"
@@ -1152,7 +1172,7 @@ msgstr ""
 
 #.
 msgid "Cave"
-msgstr ""
+msgstr "Grot"
 
 #.
 msgid "Village"
@@ -1160,11 +1180,11 @@ msgstr ""
 
 #.
 msgid "Deep Water"
-msgstr ""
+msgstr "Diep Water "
 
 #.
 msgid "Coastal Reef"
-msgstr ""
+msgstr "Kus Rif "
 
 #.
 msgid "Shallow Water"
@@ -1178,10 +1198,15 @@ msgstr ""
 #.
 msgid "Ambush"
 msgstr ""
+"Valstrik "
+"Alternatief: Hinderlaag (Moderne vorm, dus meer ongeskik.)"
 
 #.
 msgid "Cures"
 msgstr ""
+"Genees"
+"Alternatiewe: Kuur; Gesondmaak; Welmaak; Genesend; Genees; Herstel"
+"(Aksie van wapentuig)"
 
 #.
 msgid "Heals"
@@ -1235,6 +1260,9 @@ msgstr ""
 #.
 msgid "Dexterous"
 msgstr ""
+"Behendig"
+"bedrewe (modern); behendig; kunstig"
+"(weapon action)"
 
 #.
 msgid "Healthy"
@@ -1243,6 +1271,8 @@ msgstr ""
 #.
 msgid "Dim"
 msgstr ""
+"Benewel"
+"Donker; Duister; Benewel; Sterkskemer"
 
 #.
 msgid "Slow"
@@ -1261,20 +1291,16 @@ msgid "Loyal"
 msgstr ""
 
 #.
-msgid "Undead"
-msgstr ""
-
-#.
-msgid "Mechanical"
-msgstr ""
-
-#.
 msgid "Elemental"
 msgstr ""
+"Elementêr "
+"Natuurlik; Embrionies; Oerwydig; Oerbousteen"
+"urgewaltig (Duits)"
 
 #.
+#, fuzzy
 msgid "Aged"
-msgstr ""
+msgstr "Verouderd"
 
 # wapen asksies
 #.
@@ -1284,14 +1310,21 @@ msgstr "Wapen Aksies"
 #.
 msgid "Backstab"
 msgstr ""
+"Rugsteek "
+"(aksie met wapen)"
 
 #.
 msgid "Charge"
 msgstr ""
+"Storm; Afstorm"
+"(aksie met wapen)"
 
 #.
 msgid "Drains"
 msgstr ""
+"Leegtap"
+"Dreineer"
+"(wapen funksie)"
 
 #.
 msgid "First strike"
@@ -1330,11 +1363,13 @@ msgstr ""
 # Geograpfie
 #.
 msgid "Arkan-thoria"
-msgstr ""
+msgstr "Arkan-Torië"
 
 #.
 msgid "Elensafar"
 msgstr ""
+"Elensafar "
+"(pleknaam)"
 
 #.
 msgid "Far North"
@@ -1357,19 +1392,11 @@ msgid "Heart Mountains"
 msgstr ""
 
 #.
-msgid "Irdya"
-msgstr ""
-
-#.
 msgid "Kingdom of Wesnoth"
 msgstr ""
 
 #.
 msgid "Morogor"
-msgstr ""
-
-#.
-msgid "Northlands"
 msgstr ""
 
 #.
