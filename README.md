@@ -5,9 +5,11 @@ My contribution to the Afrikaans translation of Battle for Wesnoth ( https://git
 
 Die doel hiervan is om 'n plek te hê waar opgedateerde af.po lêers vir Wesnoth ( https://githbub.com/wesnoth/wesnoth ) te deel met ander vertalers.  Wesnoth laat wel nie direkte opdaterings (Pull requests) toe na hulle gitbhub stoorplek nie,  Wat ek wil vermy met hierdie repo is om oor en oor leêrs as aanhegsels na ander vertalers te stuur.  Ek wil ook 'n spasie skep waar aspekte van vertaling bespreek kan word.  Hierdie is nie ideaal daarvoor nie, maar as iemand 'n probleem met 'n aspek van 'n vertaling het, of 'n voorstel, kan Github se "Issues" opsies daarvoor gebruik word.
 
-#### Manifes van Wesnoth Terme
+### Manifes van Wesnoth Terme
 
-Daar is 'n bykomende .po leêr, wesnoth.po wat nie deel van Wesnoth is nie.  Hierdie is egter 'n kritieke leêr wat dien as gesaghebbende manifes van terminologie wat regdeur Wesnoth gebruik word bevat.
+Daar is 'n bykomende .po leêr, [wesnoth.po](https://github.com/casperl/wesnoth-af/blob/master/wesnoth.po) wat nie deel van Wesnoth is nie.  Hierdie is egter 'n kritieke leêr wat dien as gesaghebbende manifes van terminologie wat regdeur Wesnoth gebruik word.  Enigeen wat in die Afrikaanse vertaling van Wesnoth belang stel kan gerus hierdie leêr in GitHub self besigtig deur op [die skakel te klik.](https://github.com/casperl/wesnoth-af/blob/master/wesnoth.po)  Die enigse rede hoekom dit in .po formaat is, is sodat die terme in die vertalingsgeheue van die vertaalprogramme kan kom.  Deur eers die kernterminologie in hierdie leêr te vertaal, kan ek dit dan by voltooing oordra na die ander vertaalleêrs, een term op 'n slag. Ek bereken dat hierdie werskwyse die totale persentasie van Westnoth binne 'n kort tyd tot 'n skaflike vertaalde persentasie kan opstoot.
+
+Een van die huidige probleme is dat dieselfde terminologie op verskillende plekke met verskillende terme vertaal word wat weer aansienlike werk skep omdat dit nagegaan en reggestel moet word.  Dit is juis die afwesigheid van een sentrale manifes wat hierdie probleem in die eerste plek veroorsaak.
 
 ### Lokalize 
 
