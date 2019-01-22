@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: Casper Labuschagne <casper.labuschagne@gmail.com>\n"
-"PO-Revision-Date: 2019-01-21 07:18+0200\n"
+"PO-Revision-Date: 2019-01-22 01:50+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Afrikaans <>\n"
 "Language: af\n"
@@ -23,14 +23,16 @@ msgstr "Wesnot; Wesnoot; Wesnod"
 
 #.
 msgid "Elf"
-msgstr "Elf"
+msgstr "Elf; Elwe (mv); Elfie (verkleining); Elfling (lid van Elwestam)"
 
 #.
 msgid "Dunefolk"
-msgstr "Duinevolk"
+msgstr ""
+"Duinevolk; Duinevolke (mv); Duinevolkie (verkleinnaam); Duinevolker (lid van"
+" duinevolk)"
 
 #.
-msgid "Naga tribe"
+msgid "Naga Tribe"
 msgstr "Naga; Nagastam; Nagaland"
 
 #.
@@ -42,7 +44,7 @@ msgid "Nagas"
 msgstr "Nagas"
 
 #.
-msgid "serpentine"
+msgid "Serpentine"
 msgstr "slangagtig"
 
 #.
@@ -86,11 +88,11 @@ msgid "Mechanicals"
 msgstr "Meganikane"
 
 #.
-msgid "necromancy"
+msgid "Necromancy"
 msgstr "geestesbesweering"
 
 #.
-msgid "necromancer"
+msgid "Necromancer"
 msgstr "geestesbesweerder"
 
 #.
@@ -99,42 +101,42 @@ msgstr "Ork; Orkiese; Orkin (v)"
 
 #.
 msgid "Troll"
-msgstr "Trolle"
+msgstr "Trol; Trolle"
 
 #.
-msgid "alchemy"
+msgid "Alchemy"
 msgstr "alchemie"
 
 #.
-msgid "dark arts"
+msgid "Dark Arts"
 msgstr "duisterkennis"
 
 #.
-msgid "magic arts"
+msgid "Magic Arts"
 msgstr "magiese kunste"
 
 #.
-msgid "magic"
+msgid "Magic"
 msgstr "towerkunste"
 
 #.
-msgid "cataphract"
+msgid "Cataphract"
 msgstr "ysterharnas"
 
 #.
-msgid "armored infantry"
+msgid "Armored Infantry"
 msgstr "gepantserde infanterie"
 
 #.
-msgid "battle"
+msgid "Battle"
 msgstr "veldslag"
 
 #.
-msgid "skirmish"
+msgid "Skirmish"
 msgstr "skermutseling"
 
 #.
-msgid "ferocious beast"
+msgid "Ferocious Beast"
 msgstr "bloedorstige gedierte"
 
 #.
@@ -162,6 +164,54 @@ msgid "Monster"
 msgstr "Monster"
 
 #.
+msgid "Farmer"
+msgstr "Landbouer; Landbouers"
+
+#.
+msgid "Miner"
+msgstr "Delwer; Delwers"
+
+#.
+msgid "Pirate Galleon"
+msgstr ""
+"Seerower Galei; Seerowergalei; Seerower Galeie; "
+"Alternatief: Seerower Galjoen; Seerowergaljoen; Seerowergaljoene;"
+
+#.
+msgid "Rabbit"
+msgstr "Konyn"
+
+#.
+msgid "Sheep dog"
+msgstr "Skaaphond"
+
+#.
+msgid "Dog"
+msgstr "Brak"
+
+#.
+msgid "Deer"
+msgstr ""
+
+#.
+msgid "Northland"
+msgstr ""
+
+#.
+msgid "Heir to the Throne"
+msgstr ""
+
+#.
+msgid "South Guard"
+msgstr ""
+
+#.
+msgid "AMLA; After Maximum Level Advancement"
+msgstr "NMVB; Na Maksimum Vlak Bevordering"
+
+# Tipe vegters
+
+#.
 msgid "female Monster"
 msgstr "vroulike Monsterwyfie"
 
@@ -187,19 +237,30 @@ msgstr "Orgwelp"
 
 #.
 msgid "Hunting Ogre"
-msgstr "Jagterorg"
+msgstr "Jagter Org; Jagterorg"
 
 #.
 msgid "Black Hand Outlaws"
 msgstr ""
+"Swart Hand Wettelose; Swarthandwettelose; Swarthandwetteloser"
+"Sterk alternatief: Swarthand Kroek; Swarthandkroek (Ontleen aan Engels -"
+" \"crook\" as \"outlaw\")"
 
 #.
 msgid "Outlaw"
-msgstr "Bandiet; Wettelose; Misdadiger"
+msgstr ""
+"Wettelose(r); Wetteloses; (Letterlik, iemand buite die wet.) "
+"Alternatief: Kroek; Kroeks; Kroekkie; (Ontleen aan Engels \"crook\" wat"
+" sinoniem vir \"outlaw\" is"
+"Alternatiewe: Bandiet; Misdadiger; (Minder geskik eenvoudig omdat dit die"
+" terme in moderne gebruik is en uit pas is met 'n fantasiespel.)"
 
 #.
 msgid "Bandit; Bandits"
-msgstr "Bandiet; Bandiete"
+msgstr ""
+"Brigandiër; Brigandiërs; (Ontleen vanaf Duits - Brigand)"
+"Alternatief - Bandiet; Bandiete "
+"Alternatief - Plunderaar; Plunderaars"
 
 #.
 msgid "Highwayman"
@@ -207,71 +268,27 @@ msgstr "Hoofwegrower"
 
 #.
 msgid "Dwarves"
-msgstr "Dwerge"
+msgstr "Dwerg; Dwerge; Dwergie; Dwergling"
 
 #.
 msgid "Mage; Magi"
 msgstr "Magiër; Magiërs"
 
 #.
-msgid "Farmer"
-msgstr "Boer, Boere"
-
-#.
-msgid "Miner"
-msgstr "Myner, Myners"
-
-#.
-msgid "Pirate Galleon"
-msgstr "Seerowerskip"
-
-#.
 msgid "Tusker"
-msgstr ""
+msgstr "Skeurtand"
 
 #.
 msgid "Tusklet"
-msgstr ""
-
-#.
-msgid "Rabbit"
-msgstr ""
-
-#.
-msgid "Sheep dog"
-msgstr ""
+msgstr "Skeurtandjie"
 
 #.
 msgid "Footpad"
-msgstr ""
+msgstr "Straatrower; Vgl Duits - Straßenräuber"
 
 #.
 msgid "Troll Whelp"
 msgstr ""
-
-#.
-msgid "Dog"
-msgstr "Brak"
-
-#.
-msgid "Deer"
-msgstr ""
-
-#.
-msgid "Northland"
-msgstr ""
-
-#.
-msgid "Heir to the Throne"
-msgstr ""
-
-#.
-msgid "South Guard"
-msgstr ""
-
-#.
-msgid "AMLA; After Maximum Level Advancement"
-msgstr "NMVB; Na Maksimum Vlak Bevordering"
 
 #.
 msgid "Great Ogre"
@@ -817,13 +834,550 @@ msgstr "Kabouter Stroper"
 msgid "Wolf Rider"
 msgstr "Wolf Ruiter"
 
+# Aanval Tipe
+#.
+msgid "Arcane"
+msgstr ""
 
+#.
+msgid "Blade"
+msgstr ""
 
+#.
+msgid "Cold"
+msgstr ""
 
+#.
+msgid "Fire"
+msgstr ""
 
+#.
+msgid "Impact"
+msgstr ""
 
+#.
+msgid "Pierce"
+msgstr ""
 
+# Weapons
+#.
+msgid "Fangs"
+msgstr ""
 
+#.
+msgid "Claws"
+msgstr ""
 
+#.
+msgid "Axe"
+msgstr ""
+
+#.
+msgid "Hammer"
+msgstr ""
+
+#.
+msgid "Spear"
+msgstr ""
+
+#.
+msgid "Javelin"
+msgstr ""
+
+#.
+msgid "Battle axe"
+msgstr ""
+
+#.
+msgid "Hammer"
+msgstr ""
+
+#.
+msgid "Hatchet"
+msgstr ""
+
+#.
+msgid "Dagger"
+msgstr ""
+
+#.
+msgid "Thunderstick"
+msgstr ""
+
+#.
+msgid "Sword"
+msgstr ""
+
+#.
+msgid "Bow"
+msgstr ""
+
+#.
+msgid "Staff"
+msgstr ""
+
+#.
+msgid "Ensnare"
+msgstr ""
+
+#.
+msgid "Thorns"
+msgstr ""
+
+#.
+msgid "Staff"
+msgstr ""
+
+#.
+msgid "Entangle"
+msgstr ""
+
+#.
+msgid "Faerie Fire"
+msgstr ""
+
+#.
+msgid "Longbow"
+msgstr ""
+
+#.
+msgid "Faerie Touch"
+msgstr ""
+
+#.
+msgid "Gossamer"
+msgstr ""
+
+#.
+msgid "Fireball"
+msgstr ""
+
+#.
+msgid "Knife"
+msgstr ""
+
+#.
+msgid "Mace"
+msgstr ""
+
+#.
+msgid "Short Sword"
+msgstr ""
+
+#.
+msgid "Longsword"
+msgstr ""
+
+#.
+msgid "Crossbow"
+msgstr ""
+
+#.
+msgid "Chill Wave"
+msgstr ""
+
+#.
+msgid "Shadow Wave"
+msgstr ""
+
+#.
+msgid "Sabre"
+msgstr ""
+
+#.
+msgid "Lightning"
+msgstr ""
+
+#.
+msgid "Club"
+msgstr ""
+
+#.
+msgid "Sling"
+msgstr ""
+
+#.
+msgid "Halberd"
+msgstr ""
+
+#.
+msgid "Missile"
+msgstr ""
+
+#.
+msgid "Morning star"
+msgstr ""
+
+#.
+msgid "Lightbeam"
+msgstr ""
+
+#.
+msgid "Water spray"
+msgstr ""
+
+#.
+msgid "Trident"
+msgstr ""
+
+#.
+msgid "Tentacle"
+msgstr ""
+
+#.
+msgid "Ink"
+msgstr ""
+
+#.
+msgid "Fangs"
+msgstr ""
+
+#.
+msgid "Web"
+msgstr ""
+
+#.
+msgid "Cleaver"
+msgstr ""
+
+#.
+msgid "Throwing Knives"
+msgstr ""
+
+#.
+msgid "Greatsword"
+msgstr ""
+
+#.
+msgid "Fist"
+msgstr ""
+
+#.
+msgid "Touch"
+msgstr ""
+
+#.
+msgid "Battle axe"
+msgstr ""
+
+#.ghost weapon
+msgid "Wall"
+msgstr ""
+
+#.
+msgid "Chill tempest"
+msgstr ""
+
+#.
+msgid "Shadow wave"
+msgstr ""
+
+#.
+msgid "Baneblade"
+msgstr ""
+
+#.
+msgid "Torch"
+msgstr ""
+
+#.
+msgid "Net"
+msgstr ""
+
+# Tyd van dag
+#.
+msgid "Dawn"
+msgstr ""
+
+#.
+msgid "Morning"
+msgstr ""
+
+#.
+msgid "Afternoon"
+msgstr ""
+
+#.
+msgid "Dusk"
+msgstr ""
+
+#.
+msgid "First Watch"
+msgstr ""
+
+#.
+msgid "Second Watch"
+msgstr ""
+
+#Terreinverstellings
+#.
+msgid "Frozen"
+msgstr ""
+
+#.
+msgid "Castle"
+msgstr ""
+
+#.
+msgid "Sand"
+msgstr ""
+
+#.
+msgid "Forest"
+msgstr ""
+
+#.
+msgid "Flat"
+msgstr ""
+
+#.
+msgid "Hills"
+msgstr ""
+
+#.
+msgid "Mountains"
+msgstr ""
+
+#.
+msgid "Unwalkable"
+msgstr ""
+
+#.
+msgid "Swamp"
+msgstr ""
+
+#.
+msgid "Fungus"
+msgstr ""
+
+#.
+msgid "Cave"
+msgstr ""
+
+#.
+msgid "Village"
+msgstr ""
+
+#.
+msgid "Deep Water"
+msgstr ""
+
+#.
+msgid "Coastal Reef"
+msgstr ""
+
+#.
+msgid "Shallow Water"
+msgstr ""
+
+#.
+msgid "Impassable"
+msgstr ""
+
+#.Vaardighede
+#.
+msgid "Ambush"
+msgstr ""
+
+#.
+msgid "Cures"
+msgstr ""
+
+#.
+msgid "Heals"
+msgstr ""
+
+#.
+msgid "Illuminates"
+msgstr ""
+
+#.
+msgid "Leadership"
+msgstr ""
+
+#.
+msgid "Regenerates"
+msgstr ""
+
+#.
+msgid "Skirmisher"
+msgstr ""
+
+#.
+msgid "Steadfast"
+msgstr ""
+
+#.
+msgid "Submerge"
+msgstr ""
+
+# Karaktertrekke
+#.
+msgid "Fearless"
+msgstr ""
+
+#.
+msgid "Intelligent"
+msgstr ""
+
+#.
+msgid "Resilient"
+msgstr ""
+
+#.
+msgid "Strong"
+msgstr ""
+
+#.
+msgid "Quick"
+msgstr ""
+
+#.
+msgid "Dexterous"
+msgstr ""
+
+#.
+msgid "Healthy"
+msgstr ""
+
+#.
+msgid "Dim"
+msgstr ""
+
+#.
+msgid "Slow"
+msgstr ""
+
+#.
+msgid "Weak"
+msgstr ""
+
+#.
+msgid "Feral"
+msgstr ""
+
+#.
+msgid "Loyal"
+msgstr ""
+
+#.
+msgid "Undead"
+msgstr ""
+
+#.
+msgid "Mechanical"
+msgstr ""
+
+#.
+msgid "Elemental"
+msgstr ""
+
+#.
+msgid "Aged"
+msgstr ""
+
+# wapen asksies
+#.
+msgid "Weapon Specials"
+msgstr "Wapen Aksies"
+
+#.
+msgid "Backstab"
+msgstr ""
+
+#.
+msgid "Charge"
+msgstr ""
+
+#.
+msgid "Drains"
+msgstr ""
+
+#.
+msgid "First strike"
+msgstr ""
+
+#.
+msgid "Magical"
+msgstr ""
+
+#.
+msgid "Marksman"
+msgstr ""
+
+#.
+msgid "Plague"
+msgstr ""
+
+#.
+msgid "Poison"
+msgstr ""
+
+#.
+msgid "Slows"
+msgstr ""
+
+#.
+msgid "Swarm"
+msgstr ""
+
+# Factions
+#.
+msgid "Factions"
+msgstr ""
+
+# Ensiklopedie
+# Geograpfie
+#.
+msgid "Arkan-thoria"
+msgstr ""
+
+#.
+msgid "Elensafar"
+msgstr ""
+
+#.
+msgid "Far North"
+msgstr ""
+
+#.
+msgid "Great Continent"
+msgstr ""
+
+#.
+msgid "Great Ocean"
+msgstr ""
+
+#.
+msgid "Green Isle"
+msgstr ""
+
+#.
+msgid "Heart Mountains"
+msgstr ""
+
+#.
+msgid "Irdya"
+msgstr ""
+
+#.
+msgid "Kingdom of Wesnoth"
+msgstr ""
+
+#.
+msgid "Morogor"
+msgstr ""
+
+#.
+msgid "Northlands"
+msgstr ""
+
+#.
+msgid "Old Continent"
+msgstr ""
+
+#.
+msgid "South-west Elven Lands"
+msgstr ""
 
 
