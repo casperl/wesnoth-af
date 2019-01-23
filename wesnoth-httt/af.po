@@ -1,16 +1,18 @@
+# Casper Labuschagne <casper.labuschagne@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-17 18:30 UTC\n"
-"PO-Revision-Date: 2011-04-30 20:35-0000\n"
-"Last-Translator: Len vanDalsen <l.dog.96@gmail.com>\n"
-"Language-Team: Afrikaans\n"
-"Language: \n"
+"PO-Revision-Date: 2019-01-23 11:26+0200\n"
+"Last-Translator: Casper Labuschagne <casper.labuschagne@gmail.com>\n"
+"Language-Team: Afrikaans <>\n"
+"Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n !=1)\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:9
@@ -1303,7 +1305,8 @@ msgstr "Maak vrek die orke! Kom, laat ons almal teen hulle veg!"
 msgid ""
 "At last, we have freed the mermen. Go back to the ocean and live in peace."
 msgstr ""
-"Uiteindelik het ons die meermanne bevry. Gaan terug na die oseaan en lewe in "
+"Uiteindelik, die meermanne is deur ons bevry. Keer terug na jul oseaan en"
+" leef in "
 "vrede."
 
 #. [message]: role=ThankfulMerman
@@ -3767,7 +3770,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:384
 msgid "Back to the abyss, spawn of filth!"
-msgstr ""
+msgstr "Terug in julle dieptes in, julle smerige gebroedsel!"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:403
@@ -4241,7 +4244,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:574
 msgid "Beasts? We were planning to use them as mounts."
-msgstr ""
+msgstr "Ongediertes?  Ons het beplan om op hulle te ry."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:578
@@ -4902,7 +4905,7 @@ msgstr ""
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:518
 msgid "Aware? Who? Delfador, what does he mean?"
-msgstr ""
+msgstr "Versigtig? Wie? Delfador, wat bedoel hy?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:522

@@ -2,20 +2,23 @@
 # Afrikaans translations for Battle for Wesnoth package.
 # Copyright (C) 2005 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-# Automatically generated, 2005.
 #
+# Automatically generated, 2005.
+# Casper Labuschagne <casper.labuschagne@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:27 UTC\n"
-"PO-Revision-Date: 2005-12-14 12:40+0200\n"
-"Last-Translator: \n"
-"Language-Team: Afrikaans\n"
-"Language: \n"
+"PO-Revision-Date: 2019-01-23 07:44+0200\n"
+"Last-Translator: Casper Labuschagne <casper.labuschagne@gmail.com>\n"
+"Language-Team: Afrikaans <>\n"
+"Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -3160,7 +3163,6 @@ msgstr "Spiesgooier"
 
 #. [unit_type]: id=Javelineer, race=human
 #: data/core/units/humans/Loyalist_Javelineer.cfg:18
-#, fuzzy
 msgid ""
 "Spearmen almost always equip themselves with a few javelins, to harry, if "
 "not kill, enemies at range. Some, however, take to them rather well, finding "
