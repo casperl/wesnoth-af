@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: Casper Labuschagne <casper.labuschagne@gmail.com>\n"
-"PO-Revision-Date: 2019-01-23 11:29+0200\n"
+"PO-Revision-Date: 2019-01-23 22:17+0200\n"
 "Project-Id-Version: \n"
 "Language-Team: Afrikaans <>\n"
 "Language: af\n"
@@ -19,8 +19,8 @@ msgstr ""
 # Wesnoth benaminge:
 #.
 msgid "Wesnoth"
-msgstr ""
-"Westnoth "
+msgstr "Westnoth "
+"| meesterlys |"
 "Maar in ander vertalings is die stamnaam wel gewysig (sien Latyn) om by die"
 " konvensie van die taal te hou.  Die \"th\" vorm is ontleen aan Grieks en"
 " aangesien Afrikaans 'n Germaniese taal is, is Wesnot en  Wesnoot; benamings"
@@ -30,252 +30,311 @@ msgstr ""
 
 #.
 msgid "Filth"
-msgstr "smerigheid"
+msgstr "Die smerigheid"
+"| meesterlys |"
 "Alt: Filth = gemors, afval; vuilgoed; smet; smetlik; smerig; vuil"
 "Nota: Gesprek en informele vertaling is beter as eng korrek"
 
 #.
 msgid "Elf"
-msgstr ""
-"Elf; Elfin; Elwe; Elfling; Elfies; Elfinne"
-"Elfie (verkleining); Elfling (lid van Elwestam)"
+msgstr "Elf"
+"| meesterlys |"
+"Alt: Elf; Elfin; Elwe; Elfling; Elfies; Elfinne; Elfie (verkleining); Elfling"
+" (lid van Elwestam) "
+"Nota: "
+
+msgid "Elvish"
+msgstr "Elwe"
+"| meesterlys |"
+"Alt: Elfe; Elfse"
+"Nota: Elwe word sterk aanbeveel bo Elfse, hoofsaaklik omdat dit rym met"
+" Dwerge, Orke, Trolle ens.  Dit is 'n klein dingetjie, maar dit maak saak."
 
 #.
 msgid "Dunefolk"
-msgstr ""
+msgstr "Duinevolk"
+"| meesterlys |"
 "Duinevolk; Duinevolke (mv); Duinevolkie (verkleinnaam); Duinevolker (lid van"
 " duinevolk)"
 
 #.
 msgid "Naga Tribe"
-msgstr "Naga; Nagastam; Nagaland; Nagas"
+msgstr "Naga"
+"| meesterlys |"
+"Naga; Nagastam; Nagaland; Nagas"
 
 #.
 msgid "Nagini"
 msgstr "Nagini"
+"| meesterlys |"
 
 #.
 msgid "Serpentine"
 msgstr "slangagtig"
+"| meesterlys |"
 
 #.
 msgid "Roc"
 msgstr "Rog"
+"| meesterlys |"
 
 #.
 msgid "Wyvern"
 msgstr "Wywern"
+"| meesterlys |"
 
 #.
 msgid "Irdya"
-msgstr ""
-"Irdië "
+msgstr "Irdië "
+"| meesterlys |"
 "Nota: Afrikaanse vorm is sekerlik nie Irdya nie."
 
 #.
 msgid "Drakes"
-msgstr ""
-"Drankens "
+msgstr "Drankens "
+"| meersterlys |"
 "'n Draak (dragon, draco)"
 
 #.
 msgid "Sandy Wastes"
 msgstr "Sandwoesterny"
+"| meesterlys |"
 
 #.
 msgid "Saurian"
 msgstr "Sauriër"
+"| meesterlys |"
 
 #.
 msgid "Saurians"
 msgstr "Sauriërs"
+"| meesterlys |"
 
 #.
 msgid "Mechanical"
-msgstr "Meganikaan"
+msgstr "Meganikaan "
+"| meesterlys |"
+"Nota: Kon nog nie die konteks hiervoor opspoor nie."
 
 #.
 msgid "Mechanicals"
-msgstr "Meganikane"
+msgstr "Meganikane "
+"| meesterlys |"
+"Nota: Kon nog nie konteks hiervoor opspoor nie."
 
 #.
 msgid "Necromancy"
 msgstr "geestesbesweering"
+"| meesterlys |"
 
 #.
 msgid "Necromancer"
 msgstr "geestesbesweerder"
+"| meesterlys |"
 
 #.
 msgid "Orc"
 msgstr "Ork; Orkiese; Orkin (v)"
+"| meesterlys |"
 
 #.
 msgid "Troll"
-msgstr "Trol; Trolle"
+msgstr "Trol"
+"| meesterlys |"
+"Alt: Trol; Trolle"
 
 #.
 msgid "Alchemy"
-msgstr "alchemie"
+msgstr "Alchemie"
+"| meesterlys |"
 
 #.
 msgid "Dark Arts"
-msgstr ""
-"Duister Kunde"
+msgstr "Duister Kunde"
+"| meesterlys |"
 "Duister Kennis (modern); Duister Kundigheid; Duistere Kundigheid; Duisterkunde"
 
 #.
 msgid "Magic Arts"
-msgstr ""
-"Tower Kunste "
+msgstr "Tower Kunste "
+"| meesterlys |"
 "Alt: Magiese Kunste"
 
 #.
 msgid "Magic"
-msgstr ""
-"Towery"
+msgstr "Towery"
+"| meesterlys |"
 "Alt: Towery; Toordery; Tower; Toorkuns; Magies "
 "Vgl: Magician = towenaar"
 
 #.
 msgid "Cataphract"
 msgstr "Ysterharnas"
+"| meesterlys |"
 
 #.
 msgid "Armored Infantry"
-msgstr ""
-"Metaalbeklede Voetsoldate"
-"Alternatief: Gepantserde Voetsoldate"
+msgstr "Metaalbeklede Voetsoldate"
+"| meesterlys |"
+"Alt: Gepantserde Voetsoldate"
 "Moderne vorm: Gepantserde Infanterie"
 
 #.
 msgid "Battle"
-msgstr "Veldslag; "
+msgstr "Veldslag"
+"| meesterlys |"
 
 #.
 msgid "Skirmish"
 msgstr "skermutseling"
+"| meesterlys |"
 
 #.
 msgid "Ferocious Beast"
 msgstr "Bloedorstige Gedierte"
+"| meesterlys |"
 
 #.
 msgid "Merman"
 msgstr "Meerman"
+"| meesterlys |"
+"Alt: Meerman; Waterman; "
+"Duits: Wasserman"
 
 #.
 msgid "Mermaid"
 msgstr "Meermin"
+"| meesterlys |"
 
 #.
 msgid "Mermen"
-msgstr "Meermen"
+msgstr "Meermanne"
+"| meesterlys |"
 
 #.
 msgid "Merfolk"
-msgstr "Merevolk"
+msgstr "Merevolk "
+"| meesterlys |"
+"Alt: Meervolk; Merevolk"
 
 #.
 msgid "Piscine"
 msgstr "visagtig"
+"| meesterlys |"
 
 #.
 msgid "Monster"
-msgstr ""
-"Gedrog"
+msgstr "Gedrog"
+"| meesterlys |"
 "Alt: Monster; Monsters; Gedrog; Gedrogte"
 
 #.
 msgid "Farmer"
-msgstr ""
-"Landbouer"
+msgstr "Landbouer"
+"| meesterlys |"
 "Alt: Landbouer; Landbouers"
 
 #.
 msgid "Miner"
 msgstr "Delwer; Delwers"
+"| meesterlys |"
 
 #.
 msgid "Pirate Galleon"
-msgstr ""
-"Seerower Galei; Seerowergalei; Seerower Galeie; "
-"Alternatief: Seerower Galjoen; Seerowergaljoen; Seerowergaljoene;"
+msgstr "Seerower Galei"
+"| meesterlys |"
+"Alt: Seerower Galei; Seerowergalei; Seerower Galeie; "
+"Alt: Seerower Galjoen; Seerowergaljoen; Seerowergaljoene;"
 
 #.
 msgid "Rabbit"
 msgstr "Konyn"
+"| meesterlys |"
 
 #.
 msgid "Sheep dog"
 msgstr "Skaaphond"
+"| meesterlys |"
 
 #.
 msgid "Dog"
-msgstr ""
-"Brak; Brakke; Brakkie "
+msgstr "Brak"
+"| meesterlys |"
+"Brakke; Brakkie "
 "Hond; "
 
 #.
 msgid "Deer"
-msgstr ""
-"Hert "
-"Alternative: Hert; Takbok"
+msgstr "Hert "
+"| meesterlys |"
+"Alt: Hert; Takbok"
 
 #.
 msgid "Northland; Northlands"
-msgstr ""
+msgstr "Noordeland, Noordelande"
+"| meesterlys |"
 
 #.
 msgid "Heir to the Throne"
 msgstr "Erfgenaam van die Troon"
+"| meesterlys |"
 
 #.
 msgid "South Guard"
-msgstr ""
+msgstr "Suid Wag"
+"| meesterlys |"
 
 #.
 msgid "AMLA; After Maximum Level Advancement"
 msgstr "NMVB; Na Maksimum Vlak Bevordering"
+"| meesterlys |"
 
 # Tipe vegters
 #.
 msgid "Female Monster"
-msgstr ""
-"Vrouelike Gedrog"
+msgstr "Vrouelike Gedrog"
+"| meesterlys |"
 "Alt: Vroulike Monsterwyfie; Vroulike Gedrog; Vroue Gedrog "
 "Anglisisme - Monster - Gedrog; Gedrogte; Vroulike Gedrog is dalk ' beter"
 " benaming vir monsters"
 
 #.
 msgid "Ogre"
-msgstr "Org; Orge"
+msgstr "Org"
+"| meesterlys |"
+"Alt: Org; Orge"
 
 #.
 msgid "Iron Mauler"
-msgstr "Yster Moker; Yster Mokeraar"
+msgstr "Yster Moker"
+"| meesterlys |"
+"Alt: Yster Mokeraar"
 
 #.
 msgid "Ogre Nomad"
-msgstr "Orgswerwer"
+msgstr "Org Swerwer"
+"| meesterlys |"
 
 #.
 msgid "Young Ogre"
 msgstr "Orgling"
+"| meesterlys |"
 
 #.
 msgid "Ogre Whelp"
-msgstr "Orgwelp"
+msgstr "Org Welp"
+"| meesterlys |"
 
 #.
 msgid "Hunting Ogre"
-msgstr ""
-"Jagter Org "
+msgstr "Jagter Org"
+"| meesterlys |"
 "Alt: Jagterorg; Jag Org"
 
 #.
 msgid "Black Hand Outlaws"
-msgstr ""
+msgstr "Swart Klou Wettelose"
+"| meesterlys |"
 "Swart Klou Wettelose; Swart Klou Wetteloses"
 "Swart Hand Wettelose; Swarthandwettelose; Swarthandwetteloser"
 "Sterk alternatief: Swart Hand Kroek; Swarthandkroek (Ontleen aan Engels -"
@@ -284,27 +343,31 @@ msgstr ""
 
 #.
 msgid "Outlaw"
-msgstr ""
+msgstr "Wettelose"
+"| meesterlys |"
 "Wettelose(r); Wetteloses; (Letterlik, iemand buite die wet.) "
-"Alternatief: Kroek; Kroeks; Kroekkie; (Ontleen aan Engels \"crook\" wat"
+"Alt: Kroek; Kroeks; Kroekkie; (Ontleen aan Engels \"crook\" wat"
 " sinoniem vir \"outlaw\" is"
-"Alternatiewe: Bandiet; Misdadiger; (Minder geskik eenvoudig omdat dit die"
+"Alt: Bandiet; Misdadiger; (Minder geskik eenvoudig omdat dit die"
 " terme in moderne gebruik is en uit pas is met 'n fantasiespel.)"
 
 #.
 msgid "Bandit; Bandits"
-msgstr ""
+msgstr "Plunderaar"
+"| meesterlys |"
 "Brigandiër; Brigandiërs; (Ontleen vanaf Duits - Brigand)"
-"Alternatief - Bandiet; Bandiete "
-"Alternatief - Plunderaar; Plunderaars"
+"Alt: Bandiet; Bandiete; Plunderaar; Plunderaars"
+"Nota: Bandiet het moderne betekenis van gevangene"
 
 #.
 msgid "Highwayman"
 msgstr "Hoofwegrower"
+"| meesterlys |"
 
 #.
 msgid "Dwarves"
-msgstr ""
+msgstr "Dwerge"
+"| meesterlys |"
 "Dwerg; Dwerge"
 "Dwerg; Dwerge; Dwergie; Dwergling "
 "Dwarvish - Dwergagtig; Dwergling"
@@ -312,138 +375,164 @@ msgstr ""
 #.
 msgid "Mage; Magi"
 msgstr "Magiër; Magiërs"
+"| meesterlys |"
 
 #.
 msgid "Tusker"
 msgstr "Skeurtand"
+"| meesterlys |"
 
 #.
 msgid "Tusklet"
 msgstr "Skeurtandjie"
+"| meesterlys |"
 
 #.
 msgid "Footpad"
 msgstr "Straatrower; Vgl Duits - Straßenräuber"
+"| meesterlys |"
 
 #.
 msgid "Great Ogre"
 msgstr "Groot Org"
+"| meesterlys |"
 
 #.
 msgid "Bats"
 msgstr "Vlermuis; Vlermuise; Vlermuisie"
+"| meesterlys |"
 
 #.
 msgid "Blood Bat"
 msgstr "Bloed Vlêrmuis"
+"| meesterlys |"
 
 #.
 msgid "Vampire Bat"
 msgstr "Vampier Vlêremuis"
+"| meesterlys |"
 
 #.
 msgid "Dwarvish Fighter"
-msgstr ""
-"Dwerge Vegter "
+msgstr "Dwerge Vegter"
+"| meesterlys |"
 "Dwergagtige Vegter; Dwerge Vegter; Dwergere Vegter"
 
 #.
 msgid "Dwarvish Guardsman"
 msgstr "Dwerge Bewaker"
+"| meesterlys |"
 
 #.
 msgid "Dwarvish Lord"
 msgstr "Dwerge Heer"
+"| meesterlys |"
 
 #.
 msgid "Dwarvish Stalwart"
 msgstr "Dwerge Staatmaker"
+"| meesterlys |"
 
 #.
 msgid "Dwarvish Steelclad"
 msgstr "Dwerge Ysterpak"
+"| meesterlys |"
 
 #.
 msgid "Dwarvish Thunderer"
 msgstr "Dwerge Donderbus"
+"| meesterlys |"
 
 #.
 msgid "Dwarvish Thunderguard"
 msgstr "Dwerge Donderwag"
+"| meesterlys |"
 
 #.
 msgid "Elvish Archer"
 msgstr "Elwe Boogskutter"
+"| meesterlys |"
 
 #.
 msgid "Elvish Avenger"
-msgstr ""
+msgstr "Elwe Wreker"
 "Elwe Wraker "
+"| meesterlys |"
 "Elwe Weerwraaker; Elwe Wraker; Elwe Wrake; Elwe Wreker"
 
 #.
 msgid "Elvish Captain"
 msgstr "Elwe Kaptein"
+"| meesterlys |"
 
 #.
 msgid "Elvish Champion"
 msgstr "Elwe Kampioen "
+"| meesterlys |"
 
 #.
 msgid "Elvish Druid"
-msgstr ""
+msgstr "Elwe Aardtowenaar"
 "Elwe Aardtowenaar"
+"| meesterlys |"
 "Druid - Towenaar; Profeet; Natuur Optoorder"
 
 #.
 msgid "Elvish Enchantress"
-msgstr ""
-"Elwe Betoweraares"
-"Elwe Betoweraares; Elwe Beswymeres; Elfin Betoweraar; Elfin Sieledief; Elfin"
-" Hartedief"
-"Bezaubere (Duits)"
+msgstr "Elwe Betoweraar"
+"| meesterlys |"
+"Vorige: Elfse Verleidster"
+"Alt: Elwe Betoweraares; Elwe Beswymeres; Elfin Betoweraar; Elfin Sieledief;"
+" Elfin"
+" Hartedief; Elfse Verleidster "
+"Nota: Enchant = Verlei in romantiese sin; = Betower in nie romantiese sin van"
+" verleiding"
+"Duits: Bezaubere" 
 
 #.
 msgid "Elvish Fighter"
 msgstr "Elwe Vegter "
+"| meesterlys |"
 
 #.
 msgid "Elvish Hero"
-msgstr ""
-"Elwe Held"
-"Recke (Duits)"
+msgstr "Elwe Held"
+"| meesterlys |"
+"Duits: Recke"
 
 #.
 msgid "Elvish High Lord"
-msgstr ""
-"Elwe Waardeheer"
+msgstr "Elwe Waardeheer"
+"| meesterlys |"
 "Elwe Hogereheer; Elwe Hoëheer; Elwe Waardeheer"
 
 #.
 msgid "Elvish Lady"
 msgstr "Elwe Dame"
+"| meesterlys |"
 
 #.
 msgid "Elvish Lord"
 msgstr "Elwe Heer"
+"| meesterlys |"
 
 #.
 msgid "Elvish Marksman"
-msgstr ""
-"Elwe Skut"
+msgstr "Elwe Skut"
+"| meesterlys |"
 "Elwe Skerpskutter (modern); Elwe Skut; Elwe Merksman (anglisisme)"
-"Scharfschütze (Duits)"
+"Duits: Scharfschütze"
 
 #.
 msgid "Elvish Marshal"
-msgstr ""
-"Elwe Maarskalk "
+msgstr "Elwe Maarskalk"
+"| meesterlys |"
 "Konteks: 'n Militêre offisier van die hoogste rang"
 
 #.
 msgid "Elvish Outrider"
-msgstr ""
-"Elwe Voorryer"
+msgstr "Elwe Voorryer"
+"| meesterlys |"
 "Elwe Voorryer; Elwe Verkenner"
 "Vorreiter (German) "
 "Konteks: Ry te perd of voor of agter, verkenner"
@@ -451,27 +540,32 @@ msgstr ""
 #.
 msgid "Elvish Ranger"
 msgstr "Elwe Bewaarder"
+"| meesterlys |"
 
 #.
 msgid "Elvish Rider"
 msgstr "Elwe Ruiter"
+"| meesterlys |"
 
 #.
 msgid "Elvish Scout"
 msgstr "Elwe Verkenner"
+"| meesterlys |"
 
 #.
 msgid "Elvish Shaman"
 msgstr "Elwe Toordokter"
+"| meesterlys |"
 
 #.
 msgid "Elvish Sharpshooter"
 msgstr "Elwe Skerpskutter "
+"| meesterlys |"
 
 #.
 msgid "Elvish Shyde"
-msgstr ""
-"Elwe Heler "
+msgstr "Elwe Heler"
+"| meesterlys |"
 "Alt: Elwe Feëheler"
 "Nota: Heler omdat 'n \"shyde\" 'n stap op is van 'n \"druid\" en waar die"
 " druid 'n siener en leier is, kan die Shyde eenhede herstel van gif maar die"
@@ -479,27 +573,28 @@ msgstr ""
 
 #.
 msgid "Elvish Sorceress"
-msgstr ""
-"Elwe Towenares "
+msgstr "Elwe Towenares"
+"| meesterlys |"
 "Alt: Elwe Towerin; Elfse Towenares; Elfse Towerin; Elfse Toorderin; Elfse"
 " Toorfeë"
 
 #.
 msgid "Elvish Sylph"
-msgstr ""
-"Elwe Wysheidfeë"
+msgstr "Elwe Wysheidfeë"
+"| meesterlys |"
 "Alt: Elwe Lugfeë; Elwe Wysefeë; Elfse Wysheidfeë"
-"Luftgeist (Duits) "
-"Synonym: Pixie - klein duiweltjie "
+"Duits: Luftgeist"
+"Sinoniem: Pixie - klein duiweltjie "
 "Handboek sê, sage-like - "
 
 #.
 msgid "Goblins"
-msgstr ""
+msgstr "Kabouters"
+"| meesterlys |"
 "Kabouter; Kabouters; Kaboutertjie"
 "Alt: Mannetjie; Kabouter; Grondmannetjie; Aardgees"
 "Freedict: Goblin - Aardgees, Aardmannetjie "
-"Kobold (Duits)"
+"Duits: Kobold"
 "Wordnet: goblin n (folklore) a small grotesque supernatural creature that"
 " makes trouble for human beings. "
 "Goblin klink letterlik soos tokkelos - tokkelos is in Afrika konteks, dalk"
@@ -507,310 +602,385 @@ msgstr ""
 
 #.
 msgid "Goblin Impaler"
-msgstr ""
-"Kabouter Spiessteker"
+msgstr "Kabouter Spiessteker"
+"| meesterlys |"
 "alt: Kabouter Steker; Kabouter Spieser; Kabouter Impeiler; Kabouter"
 " Spiessteker; Kabouter Prikker"
-"aufspießenl; impeil (Duits)"
+"Duits: aufspießenl; impeil"
 
 #.
 msgid "Goblin Rouser"
 msgstr "Kabouter Opsweper"
+"| meesterlys |"
 
 #.
 msgid "Goblin Spearman"
-msgstr ""
-"Kabouter Spiesvegter"
+msgstr "Kabouter Spiesvegter"
+"| meesterlys |"
 "Alt: Kabouter Spiesgooier; Kabouter Spiesvegter "
 "Nota: Spiesgooier is die verkeerde term. 'n Kabouter Spiesvegter het twee"
 " soorte spiese,'n gooispies en 'n steekspies "
 
 #.
 msgid "Gryphons"
-msgstr "Griffioen; Griffioene"
+msgstr "Griffioen"
+"| meesterlys |"
+"Alt: Griffioen; Griffioene"
 
 #.
 msgid "Gryphon Master"
 msgstr "Griffioen Meester"
+"| meesterlys |"
 
 #.
 msgid "Grypon Rider"
-msgstr ""
-"Griffioen Ruiter"
+msgstr "Griffioen Ruiter"
+"| meesterlys |"
+"Alt: Griffioen Ruiter"
 "Nota: Griffioen - 'n fabelagtige dier"
 
 #.
 msgid "Sleeping Gryphon"
-msgstr ""
+msgstr "Slapend Griffioen"
+"| meesterlys |"
 
 #.
 msgid "Humans"
 msgstr "Mens; Mense"
+"| meesterlys |"
 
 #.
 msgid "Arch Mage"
 msgstr "Aarts Magiër"
+"| meesterlys |"
 
 #.
 msgid "Assassin"
 msgstr "Sluipmoordenaar"
+"| meesterlys |"
 
 #.
 msgid "Battle Princess"
-msgstr ""
-"Veldslag Prinses "
-"Alternatief - Stryd Prinses "
+msgstr "Veldslag Prinses"
+"| meesterlys |"
+"Alt: Stryd Prinses "
 
 #.
 msgid "Bowman"
 msgstr "Boogskutter"
+"| meesterlys |"
 
 #.
 msgid "Cavalier"
 msgstr "Kavalier"
+"| meesterlys |"
 
 #.
 msgid "Cavalryman"
 msgstr "Kavalrieman"
+"| meesterlys |"
 
 #.
 msgid "Commander"
-msgstr ""
-"Kommandeur "
-"Alternatiewe: Bevelhebber; Kommandeur; Kommandant; Kommedoor "
+msgstr "Kommandeur"
+"| meesterlys |"
+"Alt: Bevelhebber; Kommandeur; Kommandant; Kommedoor "
 "Modern: Bevelvoerder"
 
 #.
 msgid "Dark Adept"
-msgstr ""
-"Duistere Toormeester"
-"Alternatiewe: Donker Kundige; Toor Meester; Duister Meester; Toor Meister;"
-" Duister Toorder"
+msgstr "Duitere Toormeester"
+"| meesterlys |"
+"Alt: Donker Kundige; Toor Meester; Duister Meester; Toor Meister; Duister Toorder"
 
 #.
 msgid "Dark Queen"
-msgstr ""
-"Duistere Koningin"
-"Alternatiewe: Donker Koningin; Duister Koningin; Duistere Koningin; Swart"
+msgstr "Duister Koningin"
+"| meesterlys |"
+"Alt: Donker Koningin; Duister Koningin; Duistere Koningin; Swart"
 " Koningin"
 
 #.
 msgid "Dark Sorcerer"
-msgstr ""
+msgstr "Donker Toorder"
+"| meesterlys |"
 "Donker Toorder "
-"Alternatiewe: Duistere Toorder; Duister Toorder"
+"Alt: Duistere Toorder; Duister Toorder"
 
 #.
 msgid "Dragoon"
-msgstr ""
-"Drakeruiter"
-"Swaarkavalrie; Dragoon; Dragooner; Drakeruiter; Swaarruiter"
+msgstr "Swaarkavalris"
+"| meesterlys |"
+"Alt: Swaarkavalrie; Dragoon; Dragooner; Drakeruiter; Swaarruiter; Drakeruiter"
 
 #.
 msgid "Duellist"
-msgstr ""
-"Tweekamp Vegter"
+msgstr "Uitdager"
+"| meesterlys |"
+"ALt: Tweekamp Vegter; Uitdager"
 "'n Ridder wat in tweegeveg gevegte veg (Eng Belted Knight) "
-"Zweikampf (Duits)"
+"Duits: Zweikampf"
+"Nota: Verwys na ridders wat mekaar uitdaag, en met lanse op mekaar afstorm. Gewoonweg Uitdager is dalk die geskikste term"
 
 #.
 msgid "Elder Mage"
 msgstr "Oudere Magiër"
+"| meesterlys |"
 
 #.
 msgid "Fighter"
 msgstr "Vegter"
+"| meesterlys |"
 
 #.
 msgid "General"
 msgstr "Algemeen"
+"| meesterlys |"
 
 #.
 msgid "Grand Knight"
-msgstr ""
-"Groot Ridder"
+msgstr "Groot Ridder"
+"| meesterlys |"
 "Nota: Grand - groot of vernaam"
 
 #.
 msgid "Grand Marshall"
 msgstr "Groot Maarskalk"
+"| meesterlys |"
 
 #.
 msgid "Great Mage"
 msgstr "Groot Magiër"
+"| meesterlys |"
 
 #.
 msgid "Halberdier"
 msgstr "Halberdiër"
+"| meesterlys |"
 
 #.
 msgid "Heavy Infantryman"
-msgstr ""
-"Swaar Voetsoldaat"
-"Alt: Swaarinfanterie; Swaarvoetsoldaat"
+msgstr "Sterk Voetsoldaat"
+"| meesterlys |"
+"Nota: Infanterie is modern, Voetsoldaat dalk beter"
+"Alt: Swaarinfanterie; Swaarvoetsoldaat; Swaarbewapende voetsoldaat; Sterk Voetsoldaat"
+"Nota: Swaar Infanterie verwys na stadiger, sterker, minder beweegbaar, meer gepantser"
 
 #.
 msgid "Horseman"
 msgstr "Perderuiter"
+"| meesterlys |"
 
 #.
 msgid "Knight"
 msgstr "Ridder"
+"| meesterlys |"
 
 #.
 msgid "Lancer"
-msgstr ""
-"Lansdraer; Lansdraers"
-"Alt: Ligtelans; Speër; Lans"
+msgstr "Lansdraer"
+"| meesterlys |"
+"Alt: Ligtelans; Speër; Lans; Lansdraer; Lansdraers"
 "Nota: Kavalleris wat 'n lans (steekwapen met 'n lang steel) dra. "
 "Sinoniem: Assegai"
 
 #.
 msgid "Lieutenant"
-msgstr ""
-"Veldkornet"
+msgstr "Veldkornet"
+"| meesterlys |"
 "Alt: Luitenant; Veldkornet"
 "Nota: Gebruik ouer, geykte vorm van Veldkornet i.p.v. moderne Luitenant"
 
 #.
 msgid "Longbowman"
-msgstr ""
+msgstr "Grootboogskutter"
+"| meesterlys |"
 "Grootboogskutter "
 "Alt: Grootboogskutter; Grootboogman; Kragboogskutter; Langboogskutter;"
 
 #.
 msgid "Lord"
-msgstr ""
-"Heer"
+msgstr "Heer"
+"| meesterlys |"
 "Alt: Meester; Gebieder; Gebieter; Waardeheer"
-"Gebieter; Waldgraf (Duits)"
+"Duits: Gebieter; Waldgraf"
 
 #.
 msgid "Mage of Light"
-msgstr ""
-"Magiër van Lig "
+msgstr "Magiër van Lig"
+"| meesterlys |"
 "Alt: Ligmagiër "
 
 #.
 msgid "Mage"
 msgstr "Magiër"
+"| meesterlys |"
 
 #.
 msgid "Master Bowman"
-msgstr ""
+msgstr "Meester Boogskutter"
+"| meesterlys |"
 
 #.
 msgid "Paladin"
-msgstr ""
+msgstr "Beskutter"
+"| meesterlys |"
+"Duits: Beschützer"
+"Woordeboek: Kampioen, ridder wat 'n taak uitvoer; paleis offisier; held; man van dapperheid; getroue volgeling; besondere aanhanger"
 
 #.
 msgid "Pikeman"
-msgstr ""
+msgstr "Pikman"
+"| meesterlys |"
+"Nota: Tegnies is Pike 'n spiespunt aan 'n paal vasgemaak, maar dit werk nie vir Pikeman nie.  Wat van bloot Pik vir Pike?  Dit is 'n speletjie, ons het baie beweegruimte."
 
 #.
 msgid "Princess"
-msgstr ""
+msgstr "Prinses"
+"| meesterlys |"
 
 #.
 msgid "Red Mage"
-msgstr ""
+msgstr "Rooi Magieër"
+"| meesterlys |"
+"Alt: Rooi Towenenaar; Rooi Magieër"
 
 #.
 msgid "Rogue"
 msgstr "Uitvaagsel"
+"| meesterlys |"
 
 #.
 msgid "Royal Guard"
 msgstr "Koninklike Wag"
+"| meesterlys |"
 
 #.
 msgid "Sergeant"
-msgstr ""
+msgstr "Sersant"
+"| meesterlys |"
 
 #.
 msgid "Shock Trooper"
-msgstr ""
+msgstr "Skok Kryger"
+"| meesterlys |"
+"Alt: Skok Vegter; Skok Kryger; Skok Krygsman; Skok Troep"
+"Nota: Troep is 'n meer moderne vorm"
 
 #.
 msgid "Spearman"
 msgstr "Spiesvegter"
+"| meesterlys |"
 
 #.
 msgid "Swordsman"
-msgstr ""
+msgstr "Swaardman"
+"| meesterlys |"
 
 #.
 msgid "Thief"
-msgstr ""
+msgstr "Dief"
+"| meesterlys |"
 
 #.
 msgid "White Mage"
 msgstr "Wit Magiër"
+"| meesterlys |"
 
 #.
 msgid "Mermaid Enchantress"
-msgstr ""
+msgstr "Meermin Verleidster"
+"| meesterlys |"
+"Meermin Betoweres "
+"Vorige: Meermin Verleidster"
+"Alt: Meermin Verleidster; Meermin Betoweres; "
+"Nota: Enchant = Verlei in romantiese sin; = Betower in nie romantiese sin van"
+" verleiding"
+"Duits: Bezaubere"
 
 #.
 msgid "Mermaid Initiate"
-msgstr ""
+msgstr "Meermin Vakgeleerde"
+"| meesterlys |"
+"Alt: Meermin Inisieerder; Meermin Aanvoorder (nie geskik nie, te naby aan"
+" aanvoerder); Meermin Wysgeleerde; Meermin Geleerde; Meermin Vakgeleerde"
+"Vorige: Initiate = aanvoor; inisieer "
+"WordNet: initiate - someone who has been admitted in a scholarly field syn"
+" initiate; learned person; pundit; savant"
+"Duits: Auslösen "
 
 #.
 msgid "Mermaid Priestess"
-msgstr ""
+msgstr "Meermin Priesteres"
+"| meesterlys |"
 
 #.
 msgid "Merman Fighter"
-msgstr ""
+msgstr "Meerman Vegter"
+"| meesterlys |"
 
 #.
 msgid "Merman Hunter"
-msgstr ""
+msgstr "Meerman Jagter"
+"| meesterlys |"
 
 #.
 msgid "Cuttle Fish"
-msgstr ""
-"Ink Vis"
-"Alternatiewe: Tjokka; Kuttel Vis; Ink Vis "
+msgstr "Ink Vis"
+"| meesterlys |"
+"Alt: Tjokka; Kuttel Vis; Ink Vis "
 "Nota: Tjokka is eg Afrikaanse woordskepping "
 "Nota: Ink Vis hier gebruik veral omdat wapentuig ink is"
 
 #.
 msgid "Giant Spider"
 msgstr "Reuse Spinnekop"
+"| meesterlys |"
 
 #.
 msgid "Water Serpent"
-msgstr ""
+msgstr "Water Slang"
+"| meesterlys |"
+"Alt: Water Slang; Water Seiler"
+"Nota: Slang is nie 'n lekker alternatief vir Serpent nie"
 
 #.
 msgid "Naga Fighter"
-msgstr ""
+msgstr "Naga Vegter"
+"| meesterlys |"
 
 #.
 msgid "Ogres"
-msgstr "Orge"
+msgstr "Drog"
+"| meesterlys |"
+"Nota: Drog is 'n bestaande term, ontleen van gedrog wat naaste aan Ogre is"
+"Bestaande: Trol - wat ook die naam van 'n ander gedierte is"
+"Bestaande: Gork; Drog; Grug"
 
 #.
 msgid "Orcs"
-msgstr ""
+msgstr "Orke"
+"| meesterlys |"
 
 #.
 msgid "Orcish Archer"
-msgstr "Orgse Boogskutter"
+msgstr "Orkse Boogskutter"
+"| meesterlys |"
 
 #.
 msgid "Orcish Assassin"
-msgstr "Orgse Sluipmoordenaar"
+msgstr "Orkse Sluipmoordenaar"
+"| meesterlys |"
 
 #.
 msgid "Orcish Crossbowman"
-msgstr "Orgse Kruisboogskutter"
+msgstr "Orkse Kruisboogskutter"
+"| meesterlys |"
 
 #.
 msgid "Orcish Grunt"
-msgstr ""
-"Orgse Knorre "
+msgstr "Orkse Knorre"
+"| meesterlys |"
 "Alt: Knorre; Grommel"
 "Reeds vertaal met Knorre, maar Grommel klink dalk beter as Knorre - "
 "Val die Elwe aan my knorre! "
@@ -819,155 +989,185 @@ msgstr ""
 
 #.
 msgid "Orcish Slayer"
-msgstr "Orgse Vernietiger"
+msgstr "Orkse Vernietiger"
+"| meesterlys |"
 
 #.
 msgid "Orcish Slurbow"
-msgstr ""
+msgstr "Orkse Sleurboog"
+"| meesterlys |"
+"Nota: Kry geen verwysings na slurbow nie"
+
 
 #.
 msgid "Orcish Sovereign"
-msgstr ""
+msgstr "Orkse Heerser"
+"| meesterlys |"
+"Duits: Sovereign = Herrscher"
 
 #.
 msgid "Orcish Warlord"
-msgstr ""
+msgstr "Orkse Krygsheer"
+"| meesterlys |"
+"Duits: Warlord = Kriegsherr"
 
 #.
 msgid "Orcish Warrior"
-msgstr ""
+msgstr "Orkse Kryger"
+"| meesterlys |"
 
 #.
 msgid "Sea Orc"
-msgstr ""
+msgstr "See Ork"
+"| meesterlys |"
+"Nota: See Ork klink net nie reg nie. Wat van Water Ork?"
 
 #.
 msgid "Troll Rocklobber"
-msgstr ""
-"Trolle "
+msgstr "Trolle"
+"| meesterlys |"
 "Alt: Trolle"
 
 #.
 msgid "Troll Warrior"
-msgstr ""
-"Trolle Vegter "
+msgstr "Trolle Vegter"
+"| meesterlys |"
 "Alt: Trolle Vegter; Trol Vegter"
 
 #.
 msgid "Troll Whelp"
-msgstr ""
-"Trolle Welpie "
+msgstr "Trolle Welpie"
+"| meesterlys |"
 "Alt: Trolle Welpie; Trol Welpie"
 
 #.
 msgid "Undead"
 msgstr "Dodelose; Dodeloos; Ondood"
+"| meesterlys |"
 
 #.
 msgid "Bone Shooter"
 msgstr "Been Skieter"
+"| meesterlys |"
 
 #.
 msgid "Slayer"
-msgstr ""
-"Vernietiger"
+msgstr "Vernietiger"
+"| meesterlys |"
 "Alt: Moordenaar; Massamoordenaar; Moorder; Vernietiger"
 "Nota: Moordenaar reeds elders gebruik vir troepe vertaling"
 
 #.
 msgid "Chocobone"
-msgstr ""
-"Kokergebeente "
+msgstr "Kokergebeente"
+"| meesterlys |"
 "Chocobone; "
 
 #.
 msgid "Death Knight"
-msgstr ""
-"Dode Ridder; "
-"Alternatiewe: Doods Ridder; Ridder van die Dood"
+msgstr "Dode Ridder"
+"| meesterlys |"
+"Alt: Doods Ridder; Ridder van die Dood"
 
 #.
 msgid "Ghost"
 msgstr "Gees; Spook; Spookstroper; Spookgriller"
+"| meesterlys |"
 
 #.
 msgid "Ghoul"
 msgstr "Gees"
+"| meesterlys |"
 
 #.
 msgid "Lich"
 msgstr "Sielsuiger"
+"| meesterlys |"
 
 #.
 msgid "Revenant"
-msgstr "Grafkryger"
+msgstr "Graf Kryger"
+"| meesterlys |"
+"Alt: Grafkryger; Revenant"
+"Bestaande: Revenant"
 
 #.
 msgid "Skeleton Archer"
 msgstr "Geraamte Boogskutter"
+"| meesterlys |"
 
 #.
 msgid "Skeleton"
 msgstr "Geraamte; Gebeente; Beenratelaar; Skeletdanser"
+"| meesterlys |"
 
 #.
 msgid "Walking Corpse"
 msgstr "Graf Loper"
+"| meesterlys |"
 
 #.
 msgid "Wraith"
-msgstr "Spook; Gees; Geesteswewer; Geesteloper; Geesverskrikker"
+msgstr "Geeste Swewer"
+"| meesterlys |"
+"Alt: Spook; Gees; Geesteswewer; Geesteloper; Geesverskrikker"
 
 #.
 msgid "Wolves"
 msgstr "Wolwe"
+"| meesterlys |"
 
 #.
 msgid "Direwolf Rider"
 msgstr "Duisterwolf Ruiter"
+"| meesterlys |"
 
 #.
 msgid "Goblin Knight"
 msgstr "Kabouter Ridder"
+"| meesterlys |"
 
 #.
 msgid "Goblin Pillager"
 msgstr "Kabouter Stroper"
+"| meesterlys |"
 
 #.
 msgid "Wolf Rider"
 msgstr "Wolf Ruiter"
+"| meesterlys |"
 
 # Aanval Tipe
 #.
 msgid "Arcane"
-msgstr ""
-"Geheimnisvol"
+msgstr "Geheimnisvol"
+"| meesterlys |"
 "(Ontleen aan Duitse geheimnisvoll as vertaling vir \"arcane\")"
 
 #.
 msgid "Blade"
 msgstr "Lem"
+"| meesterlys |"
 
 #.
 msgid "Cold"
-msgstr ""
-"Kouebitter"
-"Alternatiewe: Ysige Koue; Kouebitter; Yskoue"
+msgstr "Kouebitter"
+"| meesterlys |"
+"Alt: Ysige Koue; Kouebitter; Yskoue"
 "(Wapentuig)"
 
 #.
 msgid "Fire"
 msgstr "Vuur"
+"| meesterlys |"
 
 #.
 msgid "Impact"
-msgstr ""
-"Trefslag"
+msgstr "Trefslag"
+"| meesterlys |"
 "Alt: Slag; Impak; Trefkrag; Trefslag"
-"Konteks: Aksie van wapentuig waar 'n kragte trefslag toegedien word soos deur"
-" 'n knuppel"
-"Aufschlagen (Duits) "
+"Konteks: Aksie van wapentuig waar 'n kragte trefslag toegedien word soos deur 'n knuppel"
+"Duits: Aufschlagen"
 "Nota: Impak (anglisisme) is 'n moderne vorm wat veral 'n betekenis in"
 " bemarking het, nie oorlog nie"
 "Nota: Slag is 'n term om te vermy omdat dit 'n dubbele betekenis het met slag"
@@ -975,108 +1175,124 @@ msgstr ""
 
 #.
 msgid "Pierce"
-msgstr ""
+msgstr "Steek"
+"| meesterlys |"
+"Alt: Steek; Insteek"
 
 # Weapons
 #.
 msgid "Fangs"
-msgstr ""
-"Slagtande "
+msgstr "Slagtande"
+"| meesterlys |"
 "Alt: Tande; Slagtande"
 
 #.
 msgid "Claws"
 msgstr "Kloue"
+"| meesterlys |"
 
 #.
 msgid "Axe"
 msgstr "Byl"
+"| meesterlys |"
 
 #.
 msgid "Hammer"
 msgstr "Hammer"
+"| meesterlys |"
 
 #.
 msgid "Spear"
 msgstr "Spies"
+"| meesterlys |"
 
 #.
 msgid "Javelin"
 msgstr "Gooispies"
+"| meesterlys |"
 
 #.
 msgid "Javelineer"
 msgstr "Spiesgooier; Spiesgooiers"
+"| meesterlys |"
 
 #.
 msgid "Battle Axe"
 msgstr "Stryd Byl"
+"| meesterlys |"
 
 #.
 msgid "Hatchet"
-msgstr ""
-"Kortsteelbyl"
+msgstr "Kortsteelbyl"
+"| meesterlys |"
 "Alt: Krygsbyl; Vegbyl; Kortsteelbyl; "
 "Nota: Axe is reeds as Byl vertaal."
 
 #.
 msgid "Dagger"
 msgstr "Dolk"
+"| meesterlys |"
 
 #.
 msgid "Thunderstick"
-msgstr ""
+msgstr "Donderstok"
+"| meesterlys |"
 
 #.
 msgid "Sword"
-msgstr ""
+msgstr "Swaard"
+"| meesterlys |"
 
 #.
 msgid "Bow"
 msgstr "Boog"
+"| meesterlys |"
 
 #.
 msgid "Staff"
 msgstr ""
+"| meesterlys |"
 
 #.
 msgid "Ensnare"
-msgstr ""
-"Verstrik"
+msgstr "Verstrik"
+"| meesterlys |"
 "Alt: Vang; Strik; Betrap; Gevange neem; Verstrik; "
 
 #.
 msgid "Thorns"
-msgstr ""
+msgstr "Dorings"
+"| meesterlys |"
 
 #.
 msgid "Entangle"
-msgstr ""
-"Verstrengel"
+msgstr "Verstrengel"
+"| meesterlys |"
 "Alt: Verwar; Bedremmel; Verstrik; Verstrengel;"
 
 #.
 msgid "Faerie Fire"
 msgstr "Feë Vuur"
+"| meesterlys |"
 
 #.
 msgid "Longbow"
-msgstr ""
-"Grootboog"
+msgstr "Grootboog"
+"| meesterlys |"
 "Alt: Langboog; Groot Boog; Kragboog"
 "Konteks: Wapentuig"
 
 #.
 msgid "Faerie Touch"
-msgstr ""
-"Feë Streling"
+msgstr "Feë Streling"
+"| meesterlys |"
 "Alt: Feë Aanraking; Feë Streling; Feë Beroer; Feë Streel; Feë Bestreel"
-"Berührung (Duits)"
+"Duits: Berührung"
 
 #.
 msgid "Gossamer"
-msgstr ""
-"Syweefsel"
+msgstr "Syweefsel"
+"| meesterlys |"
 "Alt: Spinneweefsel; Fyngespin; Fyngeweef; Gaas; Syweefsel "
 "Konteks: Vorm van wapentuig"
 "Duits: Spinefäden"
@@ -1085,503 +1301,605 @@ msgstr ""
 #.
 msgid "Fireball"
 msgstr "Vuurbal"
+"| meesterlys |"
 
 #.
 msgid "Knife"
 msgstr "Mes"
+"| meesterlys |"
 
 #.
 msgid "Mace"
-msgstr ""
-"Staf "
+msgstr "Staf"
+"| meesterlys |"
 "Alt: Staf; Knopkierie "
 "Nota: Tans vertaal met beide lans en knuppel"
 "Nota: Meer soos 'n knopkierie as 'n knuppel. In seremoniële gebruik gewoonlik"
-" 'n staf helfte so lank tot effens korter as die lengte van 'n mens met 'n"
-" knop aan die punt."
+" 'n staf helfte so lank tot effens korter as die lengte van 'n mens met 'n knop aan die punt."
 "Konteks: Wapentuig"
 
 #.
 msgid "Short Sword"
-msgstr ""
+msgstr "Kort Swaard"
+"| meesterlys |"
 
 #.
 msgid "Longsword"
 msgstr "Grootswaard"
+"| meesterlys |"
 
 #.
 msgid "Crossbow"
-msgstr ""
-"Hakkeboog "
-"Alternatief: Hakkeboog; Kruisboog"
+msgstr "Hakkeboog"
+"| meesterlys |"
+"Alt: Hakkeboog; Kruisboog"
 
 #.
 msgid "Chill Wave"
-msgstr ""
-"Kille Golf "
-"Alternatiewe: Ysige Golf; Vries Golf; Koue Golf; Koel Golf; Kil Golf"
+msgstr "Kille Golf"
+"| meesterlys |"
+"Alt: Ysige Golf; Vries Golf; Koue Golf; Koel Golf; Kil Golf"
 
 #.
 msgid "Shadow Wave"
-msgstr ""
+msgstr "Skadu Golf"
+"| meesterlys |"
 
 #.
 msgid "Sabre"
 msgstr "Saber"
+"| meesterlys |"
 
 #.
 msgid "Lightning"
-msgstr ""
-"Weerligstraal"
-"Konteks Wapentuig"
+msgstr "Weerligstraal"
+"| meesterlys |"
+"Konteks: Wapentuig"
 
 #.
 msgid "Club"
-msgstr ""
-"Houtstomp "
-"Alternatief: Knuppel; "
+msgstr "Houtstomp "
+"| meesterlys |"
+"Alt: Knuppel; "
 "Nota: Die beeld van houtstomp pas eerder by 'n fantasiespel as knuppel wat in"
 " die moderne terme 'n klein handwapen is.  Veral omdat hierdie kategorie"
 " wapen deur die Orkiese, Trolle, Orge en Dodelose leërs gebruik word."
 
 #.
 msgid "Sling"
-msgstr ""
+msgstr "Slinger"
+"| meesterlys | "
 
 #.
 msgid "Halberd"
-msgstr ""
-"Halberd"
+msgstr "Halberd"
+"| meesterlys |"
 "Alt: Halberd; Halberdiër"
 "Verklaring: 'n Lang stok met 'n bylkop"
 "Duits: halberd (woord halberd is van Duitse oorsprong)"
 
 #.
 msgid "Pike"
-msgstr ""
-"Spiespuntpaal"
+msgstr "Spiespuntpaal"
+"| meesterlys |"
 "Alt: Spiespuntstaf; Pyk; Spiespuntpaal"
-"Verklaring: 'n Lang paal met 'n spiespunt vooraan"
+"Konteks: 'n Lang paal met 'n spiespunt vooraan"
 
 #.
 msgid "Missile"
-msgstr ""
+msgstr "Werpgeskut"
+"| meesterlys |"
+"Alt: Missiel; Geskut; Werpgeskut"
+"Duits: Geschoss; Rakete; Wurfgeshoß (missiele met die hand gegooi) "
+"Konteks: Werking van wapentuig soos in terme van handgegooi, lae tegnologie"
+" of magiese - missiel; weerlig; vuurbal; vuur; Feë Vuur; Net; Syweefsel ens."
 
 #.
 msgid "Morning star"
-msgstr ""
+msgstr "Oggend Ster"
+"| meesterlys |"
 
 #.
 msgid "Lightbeam"
-msgstr ""
-"Ligstraal "
+msgstr "Ligstraal"
+"| meesterlys |"
 "Konteks: Wapentuig"
+"Bestaande: Ligstraal"
 
 #.
 msgid "Water spray"
-msgstr "Alt: Water Spuit; Water Sproei"
+msgstr "Water sproei"
+"| meesterlys |"
+"Alt: Water Spuit; Water Sproei"
+"Bestaande: water sproei"
 
 #.
 msgid "Trident"
-msgstr ""
+msgstr "Drietandvurk"
+"| meesterlys |"
+"Bestaande: Drietandvurk"
 
 #.
 msgid "Tentacle"
-msgstr ""
+msgstr "Tentakel"
+"| meesterlys |"
 
 #.
 msgid "Ink"
-msgstr ""
-"Ink "
+msgstr "Ink"
+"| meesterlys |"
 "Konteks: Wapentuig van inkvisse"
 
 #.
 msgid "Web"
 msgstr "Spinnerak"
+"| meesterlys |"
 
 #.
 msgid "Cleaver"
-msgstr ""
+msgstr "Kloof Byl"
+"| meesterlys |"
 "Kloofbyl"
-"Alternatiew: Hakmes; Vleismes; Vleisbyl"
+"Alt: Hakmes; Vleismes; Vleisbyl"
 "Duits: Hackmesser; Fleischerbeil"
 
 #.
 msgid "Pike"
-msgstr "Spiespuntstaf"
+msgstr "Spiespunt Staf"
+"| meesterlys |"
+"Konteks: Middeleeuse Britse wapentuig wat 'n spiespunt vooraan 'n besonderel lang staf is wat dien as muur van beskerming teen kavalrie"
 
 #.
 msgid "Throwing Knives"
-msgstr ""
+msgstr "Gooi Mes"
+"| meesterlys |"
+"Alt: Gooi Mes, Werp Mes"
 
 #.
 msgid "Greatsword"
 msgstr "Grootswaard"
+"| meesterlys |"
 
 #.
 msgid "Fist"
 msgstr "Vuis"
+"| meesterlys |"
 
 #.
 msgid "Touch"
-msgstr ""
+msgstr "Aanraak"
+"| meesterlys |"
+"Alt: Aanraak; Streel; Bestreel"
+"Konteks: Magiese aanraking"
 
 #.ghost weapon
 msgid "Wall"
-msgstr ""
-"Muur "
-"Alt: Versperring;"
+msgstr "Muur"
+"| meesterlys |"
+"Alt: Versperring; Skildmuur; Beskermmuur"
+"Konteks: Gebruik as magiese muur wat as skild dien"
 
 #.
 msgid "Chill tempest"
-msgstr ""
-"Koue Warrel "
-"Alternatiewe: Koue Storm; Ys Stormwind; Kille Warrel"
+msgstr "Koue Warrel"
+"| meesterlys |"
+"Alt: Koue Storm; Ys Stormwind; Kille Warrel"
 
 #.
 msgid "Baneblade"
-msgstr ""
-"Verdoemlem"
-"Alternatief: Verderflem; Verderwelem; Doemlem; Verdoemlem"
+msgstr "Verdoemlem"
+"| meesterlys |"
+"Alt: Verderflem; Verderwelem; Doemlem; Verdoemlem"
 "Stamwoord vir \"Bane\" is verderf, verlede tyd - verdorwe. "
 "Sinonieme vir verderf - ondergang, verdoemenis, verniel, verdoem"
 
 #.
 msgid "Torch"
-msgstr ""
+msgstr "Fakkel"
+"| meesterlys |"
+"Alt: Fakkel; Fakkels"
+"Konteks: Fakkels as beligting gebruik in dwerge se grot"
 
 #.
 msgid "Net"
-msgstr ""
+msgstr "Net"
+"| meesterlys |"
 
 # Tyd van dag
 #.
 msgid "Dawn"
-msgstr ""
-"Dagbreek "
-"Alterantiewe: Vroegoggend; Oggendskemer; Oggendlig; Eerstelig; "
+msgstr "Dagbreek"
+"| meesterlys |"
+"Alt: Vroegoggend; Oggendskemer; Oggendlig; Eerstelig; "
 "(tyd van dag)"
 
 #.
 msgid "Morning"
-msgstr ""
+msgstr "Môre"
+"| meesterlys |"
 
 #.
 msgid "Afternoon"
 msgstr "Middag"
+"| meesterlys |"
 
 #.
 msgid "Dusk"
 msgstr "Aandskemer"
+"| meesterlys |"
 
 #.
+# FUZZY
 msgid "First Watch"
 msgstr "Eerste Wag"
+"| meesterlys |"
 
 #.
+# FUZZY
 msgid "Second Watch"
-msgstr ""
+msgstr "Tweede Wag"
+"| meesterlys |"
 
 #Terreinverstellings
 #.
 msgid "Frozen"
 msgstr "Bevrore"
+"| meesterlys |"
 
 #.
 msgid "Castle"
 msgstr "Kasteel"
+"| meesterlys |"
 
 #.
 msgid "Sand"
 msgstr "Sand"
+"| meesterlys |"
 
 #.
 msgid "Forest"
 msgstr "Woud"
+"| meesterlys |"
 
 #.
 msgid "Flat"
-msgstr ""
-"Plat "
+msgstr "Gelyk"
+"| meesterlys |"
 "Alt: Laagte; Gelyk; Vlakte; Plat "
 "Geografiese terrein tipe"
 
 #.
 msgid "Hills"
 msgstr "Heuwels"
+"| meesterlys |"
 
 #.
 msgid "Mountains"
-msgstr ""
+msgstr "Berge"
+"| meesterlys |"
 
 #.
 msgid "Unwalkable"
 msgstr "Onbegaanbaar"
+"| meesterlys |"
 
 #.
 msgid "Swamp"
-msgstr ""
+msgstr "Moeras"
+"| meesterlys |"
+"Konteks: Oppervalk van spel wat beweging beïnvloed"
 
 #.
 msgid "Fungus"
-msgstr ""
-"Fungus "
+msgstr "Fungus"
+"| meesterlys |"
 "Alt: Fungus; Sponsagtig"
 "Geografiese terrein"
 
 #.
 msgid "Cave"
 msgstr "Grot"
+"| meesterlys |"
 
 #.
 msgid "Village"
 msgstr "Gehuggie"
+"| meesterlys |"
+"Alt: Dorpie: Dorp; Gehug; Gehuggie"
+"Konteks: In Engels word die heeltyd na dorp (village) verwys, maar op die skerm word altyd 'n enkele gebou vertoon, waarvoor gehug, of gehuggie meer gepas sal wees."
 
 #.
 msgid "Deep Water"
 msgstr "Diep Water "
+"| meesterlys |"
 
 #.
 msgid "Coastal Reef"
-msgstr "Kus Rif "
+msgstr "Kus Rif"
+"| meesterlys |"
 
 #.
 msgid "Shallow Water"
-msgstr ""
+msgstr "Vlak Water"
+"| meesterlys |"
 
 #.
 msgid "Impassable"
-msgstr ""
-"Onbegaanbaar "
+msgstr "Onbegaanbaar"
+"| meesterlys |"
 "Konteks: Terrein"
 
 #.Vaardighede
 #.
 msgid "Ambush"
-msgstr ""
-"Valstrik "
-"Alternatief: Hinderlaag (Moderne vorm, dus meer ongeskik.)"
+msgstr "Valstrik"
+"| meesterlys |"
+"Alt: Valstrik; Hinderlaag (Moderne vorm, dus meer ongeskik.)"
 
 #.
 msgid "Cures"
-msgstr ""
-"Genees"
-"Alternatiewe: Kuur; Gesondmaak; Welmaak; Genesend; Genees; Herstel"
+msgstr "Genees"
+"| meesterlys |"
+"Alt: Kuur; Gesondmaak; Welmaak; Genesend; Genees; Herstel"
 "(Aksie van wapentuig)"
 
 #.
 msgid "Heals"
 msgstr "Genees"
+"| meesterlys |"
 
 #.
 msgid "Illuminates"
 msgstr "Verlig"
+"| meesterlys |"
 
 #.
 msgid "Leadership"
 msgstr "Leierskap"
+"| meesterlys |"
 
 #.
 msgid "Regenerates"
-msgstr ""
+msgstr "Hergenereer"
+"| meesterlys |"
+"Alt: Hergenereer"
 
 #.
 msgid "Skirmisher"
-msgstr ""
+msgstr "Skermutselaar"
+"| meesterlys |"
+"Alt: Skermutseling; Skermutsel; Skermutselaar"
+"Duits: Scharmützel"
+"Konteks: Funksie van troepe - skermutseling is 'n mindere korttermyn geveg"
 
 #.
 msgid "Steadfast"
-msgstr ""
+msgstr "Bestendig"
+"| meesterlys |"
 
 #.
 msgid "Submerge"
-msgstr ""
+msgstr "Onderduik"
+"| meesterlys |"
+"Alt: Duik; Onderwater; Onderduik; Onderdompel; Onderduik"
+"Konteks: Aksie van manskappe"
 
 # Karaktertrekke
 #.
 msgid "Fearless"
 msgstr "Vreesloos"
+"| meesterlys |"
 
 #.
 msgid "Intelligent"
-msgstr ""
-"Denkvaardig"
+msgstr "Denkvaardig"
+"| meesterlys |"
 "Alt: Verstandelik begaafd; Denkvaardig"
 "Duits: Denkfähig "
-"Nota: Intelligent is 'n moderne term, 'n ouer, meer geykte term sal dalk meer"
-" gesik wees vir 'n fantasiespel "
+"Nota: Intelligent is 'n moderne term, 'n ouer, meer geykte term sal dalk meer gesik wees vir 'n fantasiespel "
 "Konteks: Eienskap van troepe in spel"
 
 #.
 msgid "Resilient"
-msgstr ""
+msgstr "Weerstandig"
+"| meesterlys |"
+"Alt: Taai; Rateltaai; Weerstandig; Weerstandbiedend"
+"Duits: widerstandsfähig"
 
 #.
 msgid "Strong"
-msgstr ""
+msgstr "Sterk"
+"| meesterlys |"
 
 #.
 msgid "Quick"
-msgstr ""
+msgstr "Vinnig"
+"| meesterlys |"
 
 #.
 msgid "Dexterous"
-msgstr ""
-"Behendig"
-"bedrewe (modern); behendig; kunstig"
-"(weapon action)"
+msgstr "Behendig"
+"| meesterlys |"
+"Alt: bedrewe (modern); behendig; kunstig"
+"Konteks: Werking van wapentuig"
 
 #.
 msgid "Healthy"
 msgstr "Gesond"
+"| meesterlys |"
 
 #.
 msgid "Dim"
-msgstr ""
-"Benewel"
-"Donker; Duister; Benewel; Sterkskemer"
+msgstr "Benewel"
+"| meesterlys |"
+"Alt: Benewel: Donker; Duister; Benewel; Sterkskemer"
 
 #.
 msgid "Slow"
-msgstr ""
+msgstr "Stadig"
+"| meesterlys |"
 
 #.
 msgid "Weak"
 msgstr "Swak "
+"| meesterlys |"
 
 #.
 msgid "Feral"
-msgstr ""
-"Vrylewwend"
+msgstr "Vrylewend"
+"| meesterlys |"
 "Alt: Verwildert; Wild; Vrylewend"
-"freilebend (Duits)"
+"Duits: freilebend"
 
 #.
 msgid "Loyal"
-msgstr ""
-"Lojaal"
+msgstr "Lojaal"
+"| meesterlys |"
+"Alt: Lojaal; Lojaliteit"
 "Konteks: Eienskap van troepe"
 
 #.
 msgid "Elemental"
-msgstr ""
-"Elementêr "
-"Natuurlik; Embrionies; Oerwydig; Oerbousteen"
-"urgewaltig (Duits)"
+msgstr "Elementer"
+"| meesterlys |"
+"Alt: Natuurlik; Embrionies; Oerwydig; Oerbousteen; Oergewigtig"
+"Duits: urgewaltig"
 
 #.
 #, fuzzy
 msgid "Aged"
 msgstr "Verouderd"
+"| meesterlys |"
 
 # wapen asksies
 #.
 msgid "Weapon Specials"
 msgstr "Wapen Aksies"
+"| meesterlys |"
 
 #.
 msgid "Backstab"
-msgstr ""
-"Rugsteek "
-"(aksie met wapen)"
+msgstr "Rugsteek"
+"| meesterlys |"
+"Rugsteek; Terugsteek; Agtertoesteek "
+"Konteks: aksie van wapen"
 
 #.
 msgid "Charge"
-msgstr ""
-"Storm; Afstorm"
-"(aksie met wapen)"
+msgstr "Storm"
+"| meesterlys |"
+"Alt: Storm; Afstorm"
+"Konteks: aksie van manskappe of wapen"
 
 #.
 msgid "Drains"
-msgstr ""
-"Leegtap"
-"Dreineer"
-"(wapen funksie)"
+msgstr "Leegtap"
+"| meesterlys |"
+"Alt: Leegtap; Dreineer"
+"Konteks: Magies, funksie van wapen"
 
 #.
 msgid "First strike"
-msgstr ""
-"Eerste Trefslag"
+msgstr "Eerste Trefslag"
+"| meesterlys |"
 "Alt: Eerste Tref; Eerste Aanslag; Eerste Trefslag; Eerste Hou; Eerste Slaan;"
-"Streichen (Duits)"
+"Duites: Streichen"
 
 #.
 msgid "Magical"
-msgstr ""
-"Towerny"
-"Alt: Wonderlik; Wonderbaar; Towerny; Toordery"
+msgstr "Towerny"
+"| meesterlys |"
+"Alt: Wonderlik; Wonderbaar; Towerny; Toordery; Magies"
 
 #.
 msgid "Marksman"
 msgstr "Skut "
+"| meesterlys |"
 
 #.
 msgid "Plague"
-msgstr ""
+msgstr "Plaag"
+"| meesterlys |"
 
 #.
 msgid "Poison"
-msgstr ""
+msgstr "Gif"
+"| meesterlys |"
+"ALt: Gif; Vergiftig; Vergiftiging; Vergif; Gif"
+"Konteks: Werking van wapentuig asook wapentuig"
 
 #.
 msgid "Slows"
-msgstr ""
+msgstr "Vetraag"
+"| meesterlys |"
 
 #.
 msgid "Swarm"
-msgstr ""
+msgstr "Swerm"
+"| meesterlys |"
 
 # Factions
 #.
 msgid "Factions"
 msgstr "Faksies"
+"| meesterlys |"
 
 # Ensiklopedie
 # Geograpfie
 #.
 msgid "Arkan-thoria"
 msgstr "Arkan-Torië"
+"| meesterlys |"
 
 #.
 msgid "Elensafar"
-msgstr ""
+msgstr "Elensafar"
+"| meesterlys |"
 "Elensafar "
 "(pleknaam)"
 
 #.
 msgid "Far North"
 msgstr "Verre Noorde"
+"| meesterlys |"
 
 #.
 msgid "Great Continent"
 msgstr "Groot Vasteland"
+"| meesterlys |"
 
 #.
 msgid "Great Ocean"
 msgstr "Groot Oseaan"
+"| meesterlys |"
 
 #.
 msgid "Green Isle"
 msgstr "Groen Eiland"
+"| meesterlys |"
 
 #.
 msgid "Heart Mountains"
 msgstr "Harts Berge"
+"| meesterlys |"
 
 #.
 msgid "Kingdom of Wesnoth"
 msgstr "Koninkryk van Wesnoth"
+"| meesterlys |"
 
 #.
 msgid "Morogor"
-msgstr ""
+msgstr "Morogor"
+"| meesterlys |"
 
 #.
 msgid "Old Continent"
 msgstr "Ou Vasteland"
+"| meesterlys |"
 
 #.
 msgid "South-west Elven Lands"
-msgstr ""
-
+msgstr "Suidwestelike Elwe Lande"
+"| meesterlys |"
 
