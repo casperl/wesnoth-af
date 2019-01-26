@@ -1,0 +1,100 @@
+Units
+  Bats
+    Vampire Bat
+      Blood Bat
+  Dwarves
+    Dwarvish Fighter
+      Dwarvish Steelclad
+        Dwarvish Lord
+    Dwarvish Guardsman
+      Dwarvish Stalwart
+    Dwarvish Thuderer
+      Dwarvish Thunderguard
+        Dwarvish Dragonguard
+  Elves
+    Elvish Archer
+      Elvish Ranger
+        Elvish Avenger
+      Elvish Marksman
+        Elvish Sharpshooter
+    Elvish Enchantress
+      Elvish Sylph
+    Elvish Fighter
+      ELvish Captain
+        Elvish Marshal
+      Elvish Hero
+        Elvish Champion
+    Elvish Lady
+    Elvish Lord
+      Elvish High Lord
+    Elvish Scout
+      Elvish Rider
+        Elvish Outrider
+    Elvish Shaman
+      Elvish Druid
+        Elvish Shyde
+      Elvish Sorceress
+  Goblins
+    Goblin Spearman
+      Goblin Impaler
+      Goblin Rouser
+  Grypons
+    Gryphon Rider
+      Gryphon Master
+  Humans
+    Mage
+      White Mage
+        Mage of Light
+      Red Mage
+        Arch Mage
+        Silver Mage
+    Thief
+      Rogue
+        Assassin
+    Peasant
+      Bowman
+        Longbowman
+    Cavalryman
+      Dragoon
+        Cavallier
+    Dark Adept
+      Dark Sorcerer
+    Elder Mage
+    Fencer
+      Duellist 
+        Master at Arms
+    Footpad
+    General
+    Grand Knight
+    Grand Marshall
+    Great Mage
+    Halberdier
+    Heavy Infantryman
+    Horseman
+    Iron Mauler
+    Knight
+    Lancer
+    Lieutenant
+    Master Bowman
+    Paladin
+    Pikeman
+    Royal Guard
+    Sergeant
+    Shock Trooper
+    Spearman
+    Swordsman
+    Thug
+      Bandit
+        Highwayman
+  Mermen
+  Monsters
+  Nagas
+  Ogres
+  Orcs
+  Trolls
+  Undead
+  Wolves
+    Wolf Rider
+      Goblin Knight
+        Direwolf Rider
+      Goblin Pillagers
