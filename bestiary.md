@@ -4,764 +4,385 @@
 
 ## Bats
 
-* Vampire Bat ![](/img/coreimagesunitsundeadbat-se-3.png)
-  * Blood Bat ![](/img/coreimagesunitsundeadbloodbat-se-3.png)
-    * Dread Bat ![](/img/coreimagesunitsundeaddreadbat-se-3.png)
+* (Vampire Bat) ![](./img/coreimagesunitsundeadbat-se-3.png)
+  * (Blood Bat) ![](./img/coreimagesunitsundeadbloodbat-se-3.png)
+    * (Dread Bat) ![](./img/coreimagesunitsundeaddreadbat-se-3.png)
 
 ## Drakes
 
-* Drake Burner ![](/img/coreimagesunitdrakesburner.png)
-  * Drake Flare ![](/img/coreimagesunitdrakesflare.png)
-    * Drake Flameheart ![](/img/coreimagesunitsdrakesflameheart.png)
-      * Armageddon Drake ![](/img/coreimagesunitsdrakesarmageddon.png)
-  * Fire Drake ![](/img/coreimagesunitsdrakesfire.png)
-    * Inferno Drake ![](/img/coreimagesunitsdrakesinferno.png)
+* (Drake Burner) ![](./img/coreimagesunitsdrakesburner.png)
+  * (Drake Flare) ![](./img/coreimagesunitsdrakesflare.png)
+    * (Drake Flameheart) ![](./img/coreimagesunitsdrakesflameheart.png)
+      * (Armageddon Drake) ![](./img/coreimagesunitsdrakesarmageddon.png)
+  * (Fire Drake) ![](./img/coreimagesunitsdrakesfire.png)
+    * (Inferno Drake) ![](./img/coreimagesunitsdrakesinferno.png)
 
-* Drake Clasher ![](/img/coreimagesunitsdrakesclasher.png)
-  * Drake Arbiter ![](/img/coreimagesunitsidrakesarbiter.png)
-    * Drake Warden ![](/img/coreimagesunitsdrakeswarden.png)
-  * Drake Thrasher ![](/img/coreimagesunitsdrakesshlasher.png)
-    * Drake Enforcer ![](/img/coreimagesunitsdrakesenforcer.png)
+* (Drake Clasher) ![](./img/coreimagesunitsdrakesclasher.png)
+  * (Drake Arbiter) ![](./img/coreimagesunitsdrakesarbiter.png)
+    * (Drake Warden) ![](./img/coreimagesunitsdrakeswarden.png)
+  * (Drake Thrasher) ![](./img/coreimagesunitsdrakesslasher.png)
+    * (Drake Enforcer) ![](./img/coreimagesunitsdrakesenforcer.png)
 
-* Drake Fighter ![](/img/coreimagesunitsdrakesfighter.png)
-  * Drake Warrior  ![](/img/coreimagesunitsdrakeswarrior.png)
-    * Drake Blademaster ![](/img/coreimagesunitsdrakesblademaster.png)
+* (Drake Fighter) ![](./img/coreimagesunitsdrakesfighter.png)
+  * (Drake Warrior ) ![](./img/coreimagesunitsdrakeswarrior.png)
+    * (Drake Blademaster) ![](./img/coreimagesunitsdrakesblademaster.png)
 
-* Drake Glider ![](/img/coreimagesunitsdrakesglider.png)
-  * Sky Drake ![](/img/coreimagesunitsdrakessky.png)
-    * Hurricane Drake ![](/img/coreimagesunitsdrakeshurricane.png)
+* (Drake Glider) ![](./img/coreimagesunitsdrakesglider.png)
+  * (Sky Drake) ![](./img/coreimagesunitsdrakessky.png)
+    * (Hurricane Drake) ![](./img/coreimagesunitsdrakeshurricane.png)
 
 ## Dunefolk
 
-* Dune Burner
-  * Dune Scorcher
-    * Dune Firetrooper
+* (Dune Burner) ![](./img/coreimagesunitsdunefolkburner.png)
+  * (Dune Scorcher) ![](./img/coreimagesunitsdunefolkscorcher.png)
+    * (Dune Firetrooper) ![](./img/coreimagesunitsdunefolkfiretrooper.png)
 
-* Dune Herbalist
-  * Dune Apothecary
+* (Dune Herbalist) ![](./img/coreimagesunitsdunefolkherbalist.png)
+  * (Dune Apothecary) ![](./img/coreimagesunitsdunefolkapothecary.png)
 
-* Dune Piercer
-  * Dune Raider
-    * Dune Maruader
-  * Dune Sunderer
-    * Dune Cataphract
+* (Dune Piercer) ![](./img/coreimagesunitsdunefolkpiercer.png)
+  * (Dune Raider) ![](./img/coreimagesunitsdunefolkraider.png)
+    * (Dune Maruader) ![](./img/coreimagesunitsdunefolkmarauder.png)
+  * (Dune Sunderer) ![](./img/coreimagesunitsdunefolksunderer.png)
+    * (Dune Cataphract) ![](./img/coreimagesunitsdunefolkcataphract.png)
 
-* Dune Rider
-  * Dune Rider
-    * Dune Marauder
-  * Dune Swiftrider
-    * Dune Windrider
+* (Dune Rider) ![](./img/coreimagesunitsdunefolkrider.png)
+  * (Dune Rider) ![](./img/coreimagesunitsdunefolkrider.png)
+    * (Dune Marauder) ![](./img/coreimagesunitsdunefolkmarauder.png)
+  * (Dune Swiftrider) ![](./img/coreimagesunitsdunefolkswiftrider.png)
+    * (Dune Windrider) ![](./img/coreimagesunitsdunefolkwindrider.png)
 
-* Dune Rover
-  * Dune Explorer
-    * Dune Ranger
-  * Dune Skirmisher
-    * Dune Harrier
+* (Dune Rover) ![](./img/coreimagesunitsdunefolkrover.png)
+  * (Dune Explorer) ![](./img/coreimagesunitsdunefolkexplorer.png)
+    * (Dune Ranger) ![](./img/coreimagesunitsdunefolkranger.png)
+  * (Dune Skirmisher) ![](./img/coreimagesunitsdunefolkskirmisher.png)
+    * (Dune Harrier) ![](./img/coreimagesunitsdunefolkharrier.png)
 
-* Dune Soldier
-  * Dune Spearguard
-    * Dune Spearmaster
-  * Dune Sowrdsman
-    * Dune Blademaster
-      * Dune Warmaster
+* (Dune Soldier) ![](./img/coreimagesunitsdunefolksoldier.png)
+  * (Dune Spearguard) ![](./img/coreimagesunitsdunefolkspearguard.png)
+    * (Dune Spearmaster) ![](./img/coreimagesunitsdunefolkspearmaster.png)
+  * (Dune Sowrdsman) ![](./img/coreimagesunitsdunefolkswordsman.png)
+    * (Dune Blademaster) ![](./img/coreimagesunitsdunefolkblademaster.png)
+      * (Dune Warmaster) ![](./img/coreimagesunitsdunefolkwarmaster.png)
 
 ## Dwarves
 
-* Dwarvish Fighter
-  * Dwarvish Steelclad
-    * Dwarvish Lord
-      * Dwarvish Arcanister
+* (Dwarvish Fighter) ![](./img/coreimagesunitsdwarvesfighter.png)
+  * (Dwarvish Steelclad) ![](./img/coreimagesunitsdwarvessteelclad.png)
+    * (Dwarvish Lord) ![](./img/coreimagesunitsdwarveslord.png)
+      * (Dwarvish Arcanister) ![](./img/coreimagesunitsdwarvesarcanister.png)
 
-* Dwarvhis Guardsman
-  * Dwarvish Stalwart
-    * Dwarvish Sentinel
-  * Dwarvish Runesmith
-    * Dwarvish Runemaster
+* (Dwarvhis Guardsman) ![](./img/coreimagesunitsdwarvesguard.png)
+  * (Dwarvish Stalwart) ![](./img/coreimagesunitsdwarvesstalwart.png)
+    * (Dwarvish Sentinel) ![](./img/coreimagesunitsdwarvessentinel.png)
+  * (Dwarvish Runesmith) ![](./img/coreimagesunitsdwarvesrunesmith.png)
+    * (Dwarvish Runemaster) ![](./img/coreimagesunitsdwarvesrunemaster.png)
 
-* Dwarvish Scout
-  * Dwarvish Pathfinder
-    * Dwarvish Explorer
+* (Dwarvish Scout) ![](./img/coreimagesunitsdwarvesscout.png)
+  * (Dwarvish Pathfinder) ![](./img/coreimagesunitsdwarvespathfinder.png)
+    * (Dwarvish Explorer) ![](./img/coreimagesunitsdwarvesexplorer.png)
 
-* Dwarvish Thunderer
-  * Dwarvish Thunderguard
-    * Dwarvish Dragonguard
+* (Dwarvish Thunderer) ![](./img/coreimagesunitsdwarvesthundererthunderer.png)
+  * (Dwarvish Thunderguard) ![](./img/coreimagesunitsdwarvesthunderguardthunderguard.png)
+    * (Dwarvish Dragonguard) ![](./img/coreimagesunitsdwarvesdragonguarddragonguard.png)
 
-* Dwarvish Ulfserker
-  * Dwarvish Beserker
+* (Dwarvish Ulfserker) ![](./img/coreimagesunitsdwarvesulfserker.png)
+  * (Dwarvish Beserker) ![](./img/coreimagesunitsdwarvesberserkerberserker.png)
 
 ## Elves
 
-* Elvish Archer
-  * Elvish Marksman
-    * Elvish Sharpshooter
-  * Elvish Ranger
-    * Elvish Avenger
+* (Elvish Archer) ![](./img/coreimagesunitselves-woodarcher.png)
+  * (Elvish Marksman) ![](./img/coreimagesunitselves-woodmarksman.png)
+    * (Elvish Sharpshooter) ![](./img/coreimagesunitselves-woodsharpshooter.png)
+  * (Elvish Ranger) ![](./img/coreimagesunitselves-woodranger.png)
+    * (Elvish Avenger) ![](./img/coreimagesunitselves-woodavenger.png)
 
-* Elvish Figher
-  * Elvish Captain
-    * Elvish Marshall
-  * Elvish Hero
-    * Elvish Champion
+* (Elvish Figher) ![](./img/coreimagesunitselves-woodfighter.png)
+  * (Elvish Captain) ![](./img/coreimagesunitselves-woodcaptain.png)
+    * (Elvish Marshall) ![](./img/coreimagesunitselves-woodmarshal.png)
+  * (Elvish Hero) ![](./img/coreimagesunitselves-woodhero.png)
+    * (Elvish Champion) ![](./img/coreimagesunitselves-woodchampion.png)
 
-* Elvish Scout
-  * Elvish Rider
-    * Elvish Outrider
+* (Elvish Scout) ![](./img/coreimagesunitselves-woodscoutscout.png)
+  * (Elvish Rider) ![](./img/coreimagesunitselves-woodranger.png)
+    * (Elvish Outrider) ![](./img/coreimagesunitselves-woodoutrideroutrider.png)
 
-* Elvish Shaman
-  * Elvish Druid
-    * Elvish Shyde
-  * Elvish Sorceress
-    * Elvish Enchantress
-      * Elvish Sylph
+* (Elvish Shaman) ![](./img/coreimagesunitselves-woodshaman.png)
+  * (Elvish Druid) ![](./img/coreimagesunitselves-wooddruid.png)
+    * (Elvish Shyde) ![](./img/coreimagesunitselves-woodshyde.png)
+  * (Elvish Sorceress) ![](./img/coreimagesunitselves-woodsorceress.png)
+    * (Elvish Enchantress) ![](./img/coreimagesunitselves-woodenchantress.png)
+      * (Elvish Sylph) ![](./img/coreimagesunitselves-woodsylph.png)
 
 ## Falcons
 
-* Falcon
-  * Elder Falcon
+* (Falcon) ![](./img/coreimagesunitsdunefolkfalcon.png)
+  * (Elder Falcon) ![](./img/coreimagesunitsdunefolkelder-falcon.png)
 
 ## Goblins
 
-* Goblin Spearman
-  * Goblin Impaler
-  * Goblin Rouser
+* (Goblin Spearman) ![](./img/coreimagesunitsgoblinsspearman.png)
+  * (Goblin Impaler) ![](./img/coreimagesunitsgoblinsimpaler.png)
+  * (Goblin Rouser) ![](./img/coreimagesunitsgoblinsrouser.png)
+
 
 ## Gryphons
 
-* Grypon 
+* (Grypon ) ![](./img/coreimagesunitsmonstersgryphon.png)
 
-* Gryphon Rider
-  * Gryphon Master
+* (Gryphon Rider) ![](./img/coreimagesunitsdwarvesgryphon-rider.png)
+  * (Gryphon Master) ![](./img/coreimagesunitsdwarvesgryphon-master.png)
 
 ## Humans
 
-* Cavalryman
-  * Dragoon
-    * Cavalier
+* (Cavalryman) ![](./img/coreimagesunitshuman-loyalistscavalrymancavalryman.png)
+  * (Dragoon) ![](./img/coreimagesunitshuman-loyalistsdragoondragoon.png)
+    * (Cavalier) ![](./img/coreimagesunitshuman-loyalistscavaliercavalier.png)
 
-* Dark Adept
-  * Dark Sorcerer
-    * Lich
-    * Necromancer
-      Elder Mage
+* (Dark Adept) ![](./img/coreimagesunitsundead-necromancersadept.png)
+  * (Dark Sorcerer) ![](./img/coreimagesunitsundead-necromancersdark-sorcerer.png)
+    * (Lich) ![](./img/coreimagesunitsundead-necromancerslich.png)
+    * (Necromancer) ![](./img/coreimagesunitsundead-necromancersnecromancer.png)
+      Elder Mage ![](./img/coreimagesunitshuman-magielder-mage.png)
 
-* Fencer
-  * Duelist
-    * Master at Arms
+* (Fencer) ![](./img/coreimagesunitshuman-loyalistsfencer.png)
+  * (Duelist) ![](./img/coreimagesunitshuman-loyalistsduelist.png)
+    * (Master at Arms) ![](./img/coreimagesunitshuman-loyalistsmaster-at-arms.png)
 
-* Heavy Infantryman
-  * Shock Trooper
-    * Iron Mauler
+* (Heavy Infantryman) ![](./img/coreimagesunitshuman-loyalistsheavyinfantry.png)
+  * (Shock Trooper) ![](./img/coreimagesunitshuman-loyalistsshocktrooper.png)
+    * (Iron Mauler) ![](./img/coreimagesunitshuman-loyalistssiegetrooper.png)
 
-* Horseman
-  * Knight
-    * Grand Knight
-    * Paladin
-  * Lancer
+* (Horseman) ![](./img/coreimagesunitshuman-loyalistshorsemanhorseman.png)
+  * (Knight) ![](./img/coreimagesunitshuman-loyalistsknightknight.png)
+    * (Grand Knight) ![](./img/coreimagesunitshuman-loyalistsgrand-knightgrand-knight.png)
+    * (Paladin) ![](./img/coreimagesunitshuman-loyalistspaladinpaladin.png)
+  * (Lancer) ![](./img/coreimagesunitshuman-loyalistslancerlancer.png)
 
-* Mage
-  * Red Mage
-    * Arch Mage
-      * Great Mage
-    * Silver Mage
-  * White Mage
-    * Mage of Light
+* (Mage) ![](./img/coreimagesunitshuman-magimage.png)
+  * (Red Mage) ![](./img/coreimagesunitshuman-magired-mage.png)
+    * (Arch Mage) ![](./img/coreimagesunitshuman-magiarch-mage.png)
+      * (Great Mage) ![](./img/coreimagesunitshuman-magigreat-mage.png)
+    * (Silver Mage) ![](./img/coreimagesunitshuman-magisilver-mage.png)
+  * (White Mage) ![](./img/coreimagesunitshuman-magiwhite-mage.png)
+    * (Mage of Light) ![](./img/coreimagesunitshuman-magiwhite-cleric.png)
 
-* Bowman
-  * Longbowman
-    * Master Bowman
+* (Bowman) ![](./img/coreimagesunitshuman-loyalistsbowman.png)
+  * (Longbowman) ![](./img/coreimagesunitshuman-loyalistslongbowman.png)
+    * (Master Bowman) ![](./img/coreimagesunitshuman-loyalistsmasterbowman.png)
 
-* Peasant
-  * Spearman
-    * Javelineer
-    * Pikeman
-      * Halberdier
-    * Swordsman
-      * Royal Guard
-      * Royal Warrior
+* (Peasant) ![](./img/coreimagesunitshuman-peasantspeasant.png)
+  * (Spearman) ![](./img/coreimagesunitshuman-loyalistsspearman.png)
+    * (Javelineer) ![](./img/coreimagesunitshuman-loyalistsjavelineer.png)
+    * (Pikeman) ![](./img/coreimagesunitshuman-loyalistspikeman.png)
+      * (Halberdier) ![](./img/coreimagesunitshuman-loyalistshalberdier.png)
+    * (Swordsman) ![](./img/coreimagesunitshuman-loyalistsswordsman.png)
+      * (Royal Guard) ![](./img/coreimagesunitshuman-loyalistsroyalguard.png)
+      * (Royal Warrior) ![](./img/coreimagesunitshuman-loyalistsroyal-warrior.png)
 
-* Ruffian
-  * Footpad
-    * Outlaw
-      * Fugitive
-  * Thug
-    * Bandit
-      * Highwayman
+* (Ruffian) ![](./img/coreimagesunitshuman-peasantsruffian.png)
+  * (Footpad) ![](./img/coreimagesunitshuman-outlawsfootpad.png)
+    * (Outlaw) ![](./img/coreimagesunitshuman-outlawsoutlaw.png)
+      * (Fugitive) ![](./img/coreimagesunitshuman-outlawsfugitive.png)
+  * (Thug) ![](./img/coreimagesunitshuman-outlawsthug.png)
+    * (Bandit) ![](./img/coreimagesunitshuman-outlawsbandit.png)
+      * (Highwayman) ![](./img/coreimagesunitshuman-outlawshighwayman.png)
 
-* Seargeant
-  * Lieutenant
-    * General
-      * Grand Marshal
+* (Seargeant) ![](./img/coreimagesunitshuman-loyalistssergeant.png)
+  * (Lieutenant) ![](./img/coreimagesunitshuman-loyalistslieutenant.png)
+    * (General) ![](./img/coreimagesunitshuman-loyalistsgeneral.png)
+      * (Grand Marshal) ![](./img/coreimagesunitshuman-loyalistsmarshal.png)
 
-* Thief
-  * Rogue
-    * Assassin
+* (Thief) ![](./img/coreimagesunitshuman-outlawsthief.png)
+  * (Rogue) ![](./img/coreimagesunitshuman-outlawsrogue.png)
+    * (Assassin) ![](./img/coreimagesunitshuman-outlawsassassin.png)
 
-* Woodsman
-  * Bowman
-    * Longbowman
-      * Master Bowman
-  * Poacher
-    * Trapper
-      * Huntsman
-      * Ranger
+* (Woodsman) ![](./img/coreimagesunitshuman-peasantswoodsman.png)
+  * (Bowman) ![](
+    * (Longbowman) ![](./img/coreimagesunitshuman-loyalistslongbowman.png)
+      * (Master Bowman) ![](./img/coreimagesunitshuman-loyalistsmasterbowman.png)
+  * (Poacher) ![](./img/coreimagesunitshuman-outlawspoacher.png)
+    * (Trapper) ![](./img/coreimagesunitshuman-outlawstrapper.png)
+      * (Huntsman) ![](./img/coreimagesunitshuman-outlawshuntsman.png)
+      * (Ranger) ![](./img/coreimagesunitshuman-outlawsranger.png)
 
 ## Mechanical
 
-* Boat
-* Galleon
-* Pirate Galleon
-* Transport Galleon
+* (Boat) ![](./img/coreimagesunitstransportboat.png)
+* Galleon ![](./img/coreimagesunitstransportgalleon.png)
+* (Pirate Galleon) ![](./img/coreimagesunitstransportpirate-galleon.png)
+* Transport Galleon ![](./img/coreimagesunitstransporttransport-galleon.png)
 
 ## Merfolk
 
-* Mermaid Initiate
-  * Mermaid Enchantress
-    * Mermaid Siren
-  * Mermaid Priestess
-    * Mermaid Diviner
+* (Mermaid Initiate) ![](./img/coreimagesunitsmerfolkinitiate.png)
+  * (Mermaid Enchantress) ![](./img/coreimagesunitsmerfolkenchantress.png)
+    * (Mermaid Siren) ![](./img/coreimagesunitsmerfolksiren.png)
+  * (Mermaid Priestess) ![](./img/coreimagesunitsmerfolkpriestess.png)
+    * (Mermaid Diviner) ![](./img/coreimagesunitsmerfolkdiviner.png)
 
-* Merman Fighter
-  * Merman Warrior
-    * Merman Hoplite
-    * Merman Triton
+* (Merman Fighter) ![](./img/coreimagesunitsmerfolkfighter.png)
+  * (Merman Warrior) ![](./img/coreimagesunitsmerfolkwarrior.png)
+    * (Merman Hoplite) ![](./img/coreimagesunitsmerfolkhoplite.png)
+    * (Merman Triton) ![](./img/coreimagesunitsmerfolktriton.png)
 
-* Merman Hunter
-  * Merman Netcaster
-    * Merman Entangler
-  * Merman Spearman
-    Merman Javelineer
+* (Merman Hunter) ![](./img/coreimagesunitsmerfolkhunter.png)
+  * (Merman Netcaster) ![](./img/coreimagesunitsmerfolknetcaster.png)
+    * (Merman Entangler) ![](./img/coreimagesunitsmerfolkentangler.png)
+  * (Merman Spearman) ![](./img/coreimagesunitsmerfolkspearman.png)
+    Merman Javelineer ![](./img/coreimagesunitsmerfolkjavelineer.png)
 
 ## Monsters
 
 * -
   * - 
-    * Cuttle Fish
+    * (Cuttle Fish) ![](./img/coreimagesunitsmonsterscuttlefish.png)
 * -
   * -
     * -
-      * Fire Dragon
+      * (Fire Dragon) ![](./img/coreimagesunitsmonstersfire-dragon.png)
 * -
-  * Fire Guardian
-* Giant Rat
-* Giant Scorpling
-  * Giant Scorpion
+  * (Fire Guardian) ![](./img/coreimagesunitsmonstersfireghost.png)
+* Giant Rat ![](./img/coreimagesunitsmonstersgiant-rat.png)
+* (Giant Scorpling) ![](./img/coreimagesunitsmonstersscorpionscorpling.png)
+  * (Giant Scorpion) ![](./img/coreimagesunitsmonstersscorpionscorpion.png)
 * -
   * -
-    * Giant Spider
-* Mudcrawler
-  * Giant Mudcrawler
+    * (Giant Spider) ![](./img/coreimagesunitsmonstersspider.png)
+* (Mudcrawler) ![](./img/coreimagesunitsmonstersmudcrawler.png)
+  * (Giant Mudcrawler) ![](./img/coreimagesunitsmonstersgiant-mudcrawler.png)
 * - 
   * - 
     * -
-      * Sea Serpent
+      * (Sea Serpent) ![](./img/coreimagesunitsmonstersseaserpent.png)
 * -
-  * Tentacle of the Deep
+  * (Tentacle of the Deep) ![](./img/coreimagesunitsmonstersdeep-tentacle.png)
 * -
   * -
-    * Water Serpent
+    * (Water Serpent) ![](./img/coreimagesunitsmonsterswater-serpent.png)
 * - 
   * - 
     * -
       * - 
-        * Yeti
+        * (Yeti) ![](./img/coreimagesunitsmonstersyeti.png)
 
 ## Nagas
 
-* Naga Fighter
-  * Naga Warrior
-    * Naga Myrmidon
+* (Naga Fighter) ![](./img/coreimagesunitsnagasfighter.png)
+  * (Naga Warrior) ![](./img/coreimagesunitsnagaswarrior.png)
+    * (Naga Myrmidon) ![](./img/coreimagesunitsnagasmyrmidon.png)
 
 ## Ogres
 
-* Young Ogre
-  * Ogre
+* (Young Ogre) ![](./img/coreimagesunitsogresyoung-ogre.png)
+  * (Ogre) ![](./img/coreimagesunitsogresogre.png)
 
 ## Orcs
 
-* Orcish Archer
-  * Orcish Crossbowman
-    * Orcish Slurbow
-* Orcish Assassin
-  * Orcish Slayer
-* Orcish Grung
-  * Orcish Warrior
-    * Orcish Warlord
-* Orcish Leader
-  * Orcish Ruler
-    * Orcish Sovereign
+* (Orcish Archer) ![](./img/coreimagesunitsorcsarcher.png)
+  * (Orcish Crossbowman) ![](./img/coreimagesunitsorcsxbowman.png)
+    * (Orcish Slurbow) ![](./img/coreimagesunitsorcsslurbow.png)
+* Orcish Assassin ![](./img/coreimagesunitsorcsassassin.png)
+  * (Orcish Slayer) ![](./img/coreimagesunitsorcsslayer.png)
+* Orcish Grunt ![](./img/coreimagesunitsorcsgrunt.png)
+  * (Orcish Warrior) ![](./img/coreimagesunitsorcswarrior.png)
+    * (Orcish Warlord) ![](./img/coreimagesunitsorcswarlord.png)
+* Orcish Leader ![](./img/coreimagesunitsorcsleader.png)
+  * (Orcish Ruler) ![](./img/coreimagesunitsorcsruler.png)
+    * (Orcish Sovereign) ![](./img/coreimagesunitsorcssovereign.png)
 * -
   * - 
-    * Orcish Nightblade
+    * (Orcish Nightblade) ![](./img/coreimagesunitsorcsnightblade.png)
 
 ## Saurians
 
-* Saurian Augur
-  * Saurian Oracle
-  * Saurian Soothsayer
+* (Saurian Augur) ![](./img/coreimagesunitssauriansauguraugur.png)
+  * (Saurian Oracle) ![](./img/coreimagesunitssauriansoracleoracle.png)
+  * (Saurian Soothsayer) ![](./img/coreimagesunitssaurianssoothsayersoothsayer.png)
 
-* Saurian Skirmishers
-  * Saurian Ambusher
-    * Saurian Flanker
+* (Saurian Skirmishers) ![](./img/coreimagesunitssauriansskirmisherskirmisher.png)
+  * (Saurian Ambusher) ![](./img/coreimagesunitssauriansambusherambusher.png)
+    * (Saurian Flanker) ![](./img/coreimagesunitssauriansflankerflanker.png)
 
 ## Trolls
 
 * -
-  * Troll Hero
-    * Great Troll
+  * (Troll Hero) ![](./img/coreimagesunitstrollstroll-hero.png)
+    * (Great Troll) ![]()
 
 * -
-  * Troll Shaman
+  * (Troll Shaman) ![](./img/coreimagesunitstrollsshaman.png)
 
-* Troll Whelp
-  * Troll
-    * Troll Warrior
-  * Troll Rocklobber
+* (Troll Whelp) ![](./img/coreimagesunitstrollswhelp.png)
+  * (Troll) ![](./img/coreimagesunitstrollsgrunt.png)
+    * (Troll Warrior) ![](./img/coreimagesunitstrollswarrior.png)
+  * (Troll Rocklobber) ![](./img/coreimagesunitstrollslobber.png)
+
 
 ## Undead
 
 * -
   * -
     * - 
-      * Ancient Lich
+      * (Ancient Lich) ![](./img/coreimagesunitsundead-necromancersancient-lich.png)
 
 * - 
-  * Chocobone
+  * (Chocobone) ![](./img/coreimagesunitsundead-skeletalchocobone.png)
 
 * -
   * -
-    * Death Knight
+    * (Death Knight) ![](./img/coreimagesunitsundead-skeletaldeathknight.png)
 
-* Ghost
-  * Shadow
-    * Nightgaunt
-  * Wraith
-    * Spectre
+* (Ghost) ![](./img/coreimagesunitsundeadghost-s-2.png)
+  * (Shadow) ![](./img/coreimagesunitsundeadshadow-s-2.png)
+    * (Nightgaunt) ![](./img/coreimagesunitsundeadnightgaunt.png)
+  * (Wraith) ![](./img/coreimagesunitsundeadwraith-s.png)
+    * (Spectre) ![](./img/coreimagesunitsundeadspectre.png)
 
-* Ghoul
-  * Necrophage
-    * Ghast
+* (Ghoul) ![](./img/coreimagesunitsundeadghoul.png)
+  * (Necrophage) ![](./img/coreimagesunitsundeadnecrophage.png)
+    * (Ghast) ![](./img/coreimagesunitsundeadghast.png)
 
 * - 
   * -
     * -
-      * Skeletal Dragon
+      * (Skeletal Dragon) ![](./img/coreimagesunitsmonstersskeletal-dragonskeletal-dragon.png)
 
-* Skeleton
-  * Deathblade
-  * Revenant
-    * Draug
+* (Skeleton) ![](./img/coreimagesunitsundead-skeletalskeletonskeleton.png)
+  * (Deathblade) ![](./img/coreimagesunitsundead-skeletaldeathblade.png)
+  * (Revenant) ![](./img/coreimagesunitsundead-skeletalrevenantrevenant.png)
+    * (Draug) ![](./img/coreimagesunitsundead-skeletaldraug.png)
 
-* Skeleton Archer
-  * Bone Shooter
-    * Banebow
+* (Skeleton Archer) ![](./img/coreimagesunitsundead-skeletalarcherarcher.png)
+  * (Bone Shooter) ![](./img/coreimagesunitsundead-skeletalbone-shooter.png)
+    * (Banebow) ![](./img/coreimagesunitsundead-skeletalbanebow.png)
 
-* Walking Corpse
-  * Soulless
+* (Walking Corpse) ![](
+  * (Soulless) ![](./img/coreimagesunitsundeadsoulless.png)
 
 ## Wolves
 
 * -
   * -
-    * Direwolf
+    * (Direwolf) ![](./img/coreimagesunitsmonstersdirewolf.png)
 
 * -
-  * Great Wolf
+  * (Great Wolf) ![](./img/coreimagesunitsmonsterswolf-great.png)
 
-* Wolf
+* (Wolf) ![](./img/coreimagesunitsmonsterswolf.png)
 
-* Wolf Rider
-  * Goblin Knight
-    * Direwolf Rider
-  * Goblin Pillager
+* (Wolf Rider) ![](./img/coreimagesunitsgoblinswolf-rider.png)
+  * (Goblin Knight) ![](./img/coreimagesunitsgoblinsknight.png)
+    * (Direwolf Rider) ![](./img/coreimagesunitsgoblinsdirewolver.png)
+  * (Goblin Pillager) ![](./img/coreimagesunitsgoblinspillager.png)
 
 ## Woses
 
-* Wose
-  * Elder Wose
-    * Ancient Wose
-
-----
-
-## English
-
-## Bats
-
-* Vampire Bat
-  * Blood Bat
-    * Dread Bat
-
-## Drakes
-
-* Drake Burner
-  * Drake Flare
-    * Drake Flameheart
-      * Armageddon Drake
-  * Fire Drake
-    * Inferno Drake
-
-* Drake Clasher
-  * Drake Arbiter
-    * Drake Warden
-  * Drake Thrasher
-    * Drake Enforcer
-
-* Drake Fighter
-  * Drake Warrior 
-    * Drake Blademaster
-
-* Drake Glider
-  * Sky Drake
-    * Hurricane Drake
-
-## Dunefolk
-
-* Dune Burner
-  * Dune Scorcher
-    * Dune Firetrooper
-
-* Dune Herbalist
-  * Dune Apothecary
-
-* Dune Piercer
-  * Dune Raider
-    * Dune Maruader
-  * Dune Sunderer
-    * Dune Cataphract
-
-* Dune Rider
-  * Dune Rider
-    * Dune Marauder
-  * Dune Swiftrider
-    * Dune Windrider
-
-* Dune Rover
-  * Dune Explorer
-    * Dune Ranger
-  * Dune Skirmisher
-    * Dune Harrier
-
-* Dune Soldier
-  * Dune Spearguard
-    * Dune Spearmaster
-  * Dune Sowrdsman
-    * Dune Blademaster
-      * Dune Warmaster
-
-## Dwarves
-
-* Dwarvish Fighter
-  * Dwarvish Steelclad
-    * Dwarvish Lord
-      * Dwarvish Arcanister
-
-* Dwarvhis Guardsman
-  * Dwarvish Stalwart
-    * Dwarvish Sentinel
-  * Dwarvish Runesmith
-    * Dwarvish Runemaster
-
-* Dwarvish Scout
-  * Dwarvish Pathfinder
-    * Dwarvish Explorer
-
-* Dwarvish Thunderer
-  * Dwarvish Thunderguard
-    * Dwarvish Dragonguard
-
-* Dwarvish Ulfserker
-  * Dwarvish Beserker
-
-## Elves
-
-* Elvish Archer
-  * Elvish Marksman
-    * Elvish Sharpshooter
-  * Elvish Ranger
-    * Elvish Avenger
-
-* Elvish Figher
-  * Elvish Captain
-    * Elvish Marshall
-  * Elvish Hero
-    * Elvish Champion
-
-* Elvish Scout
-  * Elvish Rider
-    * Elvish Outrider
-
-* Elvish Shaman
-  * Elvish Druid
-    * Elvish Shyde
-  * Elvish Sorceress
-    * Elvish Enchantress
-      * Elvish Sylph
-
-## Falcons
-
-* Falcon
-  * Elder Falcon
-
-## Goblins
-
-* Goblin Spearman
-  * Goblin Impaler
-  * Goblin Rouser
-
-## Gryphons
-
-* Grypon 
-
-* Gryphon Rider
-  * Gryphon Master
-
-## Humans
-
-* Cavalryman
-  * Dragoon
-    * Cavalier
-
-* Dark Adept
-  * Dark Sorcerer
-    * Lich
-    * Necromancer
-      Elder Mage
-
-* Fencer
-  * Duelist
-    * Master at Arms
-
-* Heavy Infantryman
-  * Shock Trooper
-    * Iron Mauler
-
-* Horseman
-  * Knight
-    * Grand Knight
-    * Paladin
-  * Lancer
-
-* Mage
-  * Red Mage
-    * Arch Mage
-      * Great Mage
-    * Silver Mage
-  * White Mage
-    * Mage of Light
-
-* Bowman
-  * Longbowman
-    * Master Bowman
-
-* Peasant
-  * Spearman
-    * Javelineer
-    * Pikeman
-      * Halberdier
-    * Swordsman
-      * Royal Guard
-      * Royal Warrior
-
-* Ruffian
-  * Footpad
-    * Outlaw
-      * Fugitive
-  * Thug
-    * Bandit
-      * Highwayman
-
-* Seargeant
-  * Lieutenant
-    * General
-      * Grand Marshal
-
-* Thief
-  * Rogue
-    * Assassin
-
-* Woodsman
-  * Bowman
-    * Longbowman
-      * Master Bowman
-  * Poacher
-    * Trapper
-      * Huntsman
-      * Ranger
-
-## Mechanical
-
-* Boat
-* Galleon
-* Pirate Galleon
-* Transport Galleon
-
-## Merfolk
-
-* Mermaid Initiate
-  * Mermaid Enchantress
-    * Mermaid Siren
-  * Mermaid Priestess
-    * Mermaid Diviner
-
-* Merman Fighter
-  * Merman Warrior
-    * Merman Hoplite
-    * Merman Triton
-
-* Merman Hunter
-  * Merman Netcaster
-    * Merman Entangler
-  * Merman Spearman
-    Merman Javelineer
-
-## Monsters
-
-* -
-  * - 
-    * Cuttle Fish
-* -
-  * -
-    * -
-      * Fire Dragon
-* -
-  * Fire Guardian
-* Giant Rat
-* Giant Scorpling
-  * Giant Scorpion
-* -
-  * -
-    * Giant Spider
-* Mudcrawler
-  * Giant Mudcrawler
-* - 
-  * - 
-    * -
-      * Sea Serpent
-* -
-  * Tentacle of the Deep
-* -
-  * -
-    * Water Serpent
-* - 
-  * - 
-    * -
-      * - 
-        * Yeti
-
-## Nagas
-
-* Naga Fighter
-  * Naga Warrior
-    * Naga Myrmidon
-
-## Ogres
-
-* Young Ogre
-  * Ogre
-
-## Orcs
-
-* Orcish Archer
-  * Orcish Crossbowman
-    * Orcish Slurbow
-* Orcish Assassin
-  * Orcish Slayer
-* Orcish Grung
-  * Orcish Warrior
-    * Orcish Warlord
-* Orcish Leader
-  * Orcish Ruler
-    * Orcish Sovereign
-* -
-  * - 
-    * Orcish Nightblade
-
-## Saurians
-
-* Saurian Augur
-  * Saurian Oracle
-  * Saurian Soothsayer
-
-* Saurian Skirmishers
-  * Saurian Ambusher
-    * Saurian Flanker
-
-## Trolls
-
-* -
-  * Troll Hero
-    * Great Troll
-
-* -
-  * Troll Shaman
-
-* Troll Whelp
-  * Troll
-    * Troll Warrior
-  * Troll Rocklobber
-
-## Undead
-
-* -
-  * -
-    * - 
-      * Ancient Lich
-
-* - 
-  * Chocobone
-
-* -
-  * -
-    * Death Knight
-
-* Ghost
-  * Shadow
-    * Nightgaunt
-  * Wraith
-    * Spectre
-
-* Ghoul
-  * Necrophage
-    * Ghast
-
-* - 
-  * -
-    * -
-      * Skeletal Dragon
-
-* Skeleton
-  * Deathblade
-  * Revenant
-    * Draug
-
-* Skeleton Archer
-  * Bone Shooter
-    * Banebow
-
-* Walking Corpse
-  * Soulless
-
-## Wolves
-
-* -
-  * -
-    * Direwolf
-
-* -
-  * Great Wolf
-
-* Wolf
-
-* Wolf Rider
-  * Goblin Knight
-    * Direwolf Rider
-  * Goblin Pillager
-
-## Woses
-
-* Wose
-  * Elder Wose
-    * Ancient Wose
-
+* (Wose) ![](./img/coreimagesunitswoseswose.png)
+  * (Elder Wose) ![](./img/coreimagesunitswoseswose-elder.png)
+    * (Ancient Wose) ![](./img/coreimagesunitswoseswose-ancient.png)
+
+## Unassigned ???
 
 
 
