@@ -2,13 +2,17 @@
 
 ## Afrikaans
 
-## Bats
+### Indeks 
+
+* [Vlermuise (Bats)](#bats)
+
+<h2 id="bats">Bats</h2>
 
 * (Vampire Bat) ![](./img/coreimagesunitsundeadbat-se-3.png)
   * (Blood Bat) ![](./img/coreimagesunitsundeadbloodbat-se-3.png)
     * (Dread Bat) ![](./img/coreimagesunitsundeaddreadbat-se-3.png)
 
-## Drakes
+<h2 id="drakes">Drakes</h2>
 
 * (Drake Burner) ![](./img/coreimagesunitsdrakesburner.png)
   * (Drake Flare) ![](./img/coreimagesunitsdrakesflare.png)
@@ -31,7 +35,7 @@
   * (Sky Drake) ![](./img/coreimagesunitsdrakessky.png)
     * (Hurricane Drake) ![](./img/coreimagesunitsdrakeshurricane.png)
 
-## Dunefolk
+<h2 id="dunefolk">Dunefolk</h2>
 
 * (Dune Burner) ![](./img/coreimagesunitsdunefolkburner.png)
   * (Dune Scorcher) ![](./img/coreimagesunitsdunefolkscorcher.png)
@@ -89,7 +93,7 @@
 * (Dwarvish Ulfserker) ![](./img/coreimagesunitsdwarvesulfserker.png)
   * (Dwarvish Beserker) ![](./img/coreimagesunitsdwarvesberserkerberserker.png)
 
-## Elves
+<h2 ide="elves">Elves</h2>
 
 * (Elvish Archer) ![](./img/coreimagesunitselves-woodarcher.png)
   * (Elvish Marksman) ![](./img/coreimagesunitselves-woodmarksman.png)
@@ -114,26 +118,26 @@
     * (Elvish Enchantress) ![](./img/coreimagesunitselves-woodenchantress.png)
       * (Elvish Sylph) ![](./img/coreimagesunitselves-woodsylph.png)
 
-## Falcons
+<h2 id="falcons">Falcons</h2>
 
 * (Falcon) ![](./img/coreimagesunitsdunefolkfalcon.png)
   * (Elder Falcon) ![](./img/coreimagesunitsdunefolkelder-falcon.png)
 
-## Goblins
+<h2 id="goblins">Goblins</h2>
 
 * (Goblin Spearman) ![](./img/coreimagesunitsgoblinsspearman.png)
   * (Goblin Impaler) ![](./img/coreimagesunitsgoblinsimpaler.png)
   * (Goblin Rouser) ![](./img/coreimagesunitsgoblinsrouser.png)
 
 
-## Gryphons
+<h2 id="gryphons">Gryphons</h2>
 
 * (Grypon ) ![](./img/coreimagesunitsmonstersgryphon.png)
 
 * (Gryphon Rider) ![](./img/coreimagesunitsdwarvesgryphon-rider.png)
   * (Gryphon Master) ![](./img/coreimagesunitsdwarvesgryphon-master.png)
 
-## Humans
+<h2 id="humans">Humans</h2>
 
 * (Cavalryman) ![](./img/coreimagesunitshuman-loyalistscavalrymancavalryman.png)
   * (Dragoon) ![](./img/coreimagesunitshuman-loyalistsdragoondragoon.png)
@@ -206,7 +210,7 @@
       * (Huntsman) ![](./img/coreimagesunitshuman-outlawshuntsman.png)
       * (Ranger) ![](./img/coreimagesunitshuman-outlawsranger.png)
 
-## Mechanical
+<h2 id="mechanical">Mechanical</h2>
 
 * (Boat) ![](./img/coreimagesunitstransportboat.png)
 * Galleon ![](./img/coreimagesunitstransportgalleon.png)
